@@ -1,0 +1,1001 @@
+CustomerID,Region,Age,Product,Category,Price,BrowsingTime(Mins),Rating,CompetitorPrice,Inventory,QuantitySold,RestockStatus,PurchaseDate
+1,East,28,Headphones,Electronics,158.85,109,4.9,159.87,47,43,Urgent,13-01-2025
+2,North,56,Sneakers,Clothing,885.57,111,2.8,827.55,18,3,Sufficient,24-01-2025
+3,North,48,Jeans,Clothing,558.72,116,3.7,534.69,71,16,Moderate,18-01-2025
+4,North,20,Fiction,Books,611.87,115,1.4,575.64,71,30,Moderate,24-01-2025
+5,North,46,Furniture,Home & Kitchen,666.04,117,4.7,716.78,99,4,Sufficient,02-01-2025
+6,South,54,Jeans,Clothing,736.36,25,4.8,706.43,61,41,Urgent,20-01-2025
+7,South,50,Non-fiction,Books,524.9,99,3.3,536.5,12,49,Urgent,04-01-2025
+8,West,63,Furniture,Home & Kitchen,935.97,15,4.1,975.08,41,2,Sufficient,18-01-2025
+9,North,61,Biography,Books,568.88,67,4,525.38,35,9,Moderate,07-01-2025
+10,East,38,Textbook,Books,319.16,53,4.7,341.76,41,25,Urgent,03-01-2025
+11,South,47,Tennis Racket,Sports,910.51,117,4.7,941.43,23,6,Moderate,21-01-2025
+12,South,27,Jeans,Clothing,307.92,62,1.1,314.64,17,16,Urgent,17-01-2025
+13,West,65,Sneakers,Clothing,623.89,58,4.9,634.8,51,43,Urgent,10-01-2025
+14,North,64,Textbook,Books,379.13,118,2.3,379.76,91,45,Moderate,24-01-2025
+15,East,43,Non-fiction,Books,422.72,5,1.9,441.35,45,10,Moderate,05-01-2025
+16,North,25,Tennis Racket,Sports,679.69,59,1.3,730.25,94,11,Sufficient,03-01-2025
+17,North,18,T-shirt,Clothing,855.5,89,1.6,935.89,34,32,Urgent,15-01-2025
+18,East,20,Fiction,Books,21.39,42,4.5,20.28,71,32,Moderate,09-01-2025
+19,East,56,Smartphone,Electronics,588.51,95,4,533.44,93,35,Moderate,09-01-2025
+20,East,35,Textbook,Books,53.39,67,2.2,53.68,41,23,Urgent,07-01-2025
+21,South,56,Sneakers,Clothing,235.65,25,3.3,236.15,18,17,Urgent,16-01-2025
+22,West,57,Tablet,Electronics,517.34,52,3.6,547.07,43,4,Sufficient,04-01-2025
+23,East,54,Fiction,Books,32.42,65,3.9,29.28,67,32,Moderate,10-01-2025
+24,West,57,Cookware,Home & Kitchen,466.39,38,4.9,430,24,49,Urgent,13-01-2025
+25,West,59,Jacket,Clothing,512.71,84,1.8,514.34,21,42,Urgent,24-01-2025
+26,West,33,Smartphone,Electronics,775.91,44,4.1,707.57,84,42,Moderate,12-01-2025
+27,East,22,Tablet,Electronics,885.15,116,3.6,832.36,19,27,Urgent,21-01-2025
+28,West,49,Textbook,Books,595.71,52,2.5,587.01,56,7,Sufficient,15-01-2025
+29,West,49,Textbook,Books,603.76,52,4.1,549.95,36,20,Urgent,21-01-2025
+30,North,25,Blender,Home & Kitchen,542.33,116,2.2,534.9,16,21,Urgent,24-01-2025
+31,West,42,Jacket,Clothing,157.97,29,1.4,162.62,59,7,Sufficient,18-01-2025
+32,West,64,T-shirt,Clothing,325.77,47,3.7,348.64,77,24,Moderate,12-01-2025
+33,North,59,Furniture,Home & Kitchen,964.24,81,1.3,988.23,38,42,Urgent,05-01-2025
+34,North,44,Gym Equipment,Sports,236.34,83,4.3,244.76,94,6,Sufficient,05-01-2025
+35,North,52,Football,Sports,224.91,21,3.2,238.99,99,43,Moderate,11-01-2025
+36,West,52,Gym Equipment,Sports,591.97,78,2.8,555.87,64,33,Urgent,10-01-2025
+37,North,23,Sneakers,Clothing,928.45,116,2.8,1012.29,86,50,Urgent,14-01-2025
+38,West,32,Sneakers,Clothing,583.23,88,3.2,603.28,71,46,Urgent,05-01-2025
+39,East,63,Laptop,Electronics,876.79,36,2.6,905.9,16,19,Urgent,09-01-2025
+40,South,33,Jeans,Clothing,529.86,65,2.2,551.06,20,42,Urgent,02-01-2025
+41,North,52,Sneakers,Clothing,691.78,73,2.2,732.7,45,25,Urgent,12-01-2025
+42,South,28,Non-fiction,Books,739.41,43,1.7,706.62,41,46,Urgent,22-01-2025
+43,West,62,Jacket,Clothing,38.27,89,3.6,35.66,93,7,Sufficient,17-01-2025
+44,South,27,Textbook,Books,721.86,40,3.1,764.48,12,13,Urgent,12-01-2025
+45,North,42,Fiction,Books,685.83,67,3,751.79,25,26,Urgent,20-01-2025
+46,North,33,Blender,Home & Kitchen,510.63,32,4.4,556.15,76,45,Urgent,06-01-2025
+47,South,49,Blender,Home & Kitchen,943.06,51,4.6,887.4,43,33,Urgent,21-01-2025
+48,West,35,Furniture,Home & Kitchen,741.09,74,4.3,782.91,59,43,Urgent,17-01-2025
+49,West,31,Blender,Home & Kitchen,247.13,38,4,231.09,42,4,Sufficient,02-01-2025
+50,North,41,Laptop,Electronics,868.36,12,2,786.45,29,44,Urgent,22-01-2025
+51,North,22,Blender,Home & Kitchen,355.34,55,2.1,367.39,71,1,Sufficient,20-01-2025
+52,West,19,Jacket,Clothing,327.73,37,4.8,349.9,54,21,Moderate,05-01-2025
+53,West,33,Jacket,Clothing,349.13,5,4.2,315.18,8,46,Urgent,17-01-2025
+54,West,23,Cookware,Home & Kitchen,359.43,119,4.3,333.94,98,44,Moderate,03-01-2025
+55,West,44,Tablet,Electronics,877.17,36,3.4,903.61,56,13,Moderate,16-01-2025
+56,East,37,Football,Sports,538.3,115,3.2,530.95,20,28,Urgent,09-01-2025
+57,East,64,T-shirt,Clothing,702.33,10,2.7,656.19,7,43,Urgent,19-01-2025
+58,West,44,Textbook,Books,256.46,82,1.5,244.23,8,5,Urgent,11-01-2025
+59,North,47,Gym Equipment,Sports,924.45,117,2.9,931.07,66,7,Sufficient,11-01-2025
+60,South,50,Vacuum Cleaner,Home & Kitchen,288.53,49,2.4,285.52,6,34,Urgent,04-01-2025
+61,West,35,Biography,Books,47.72,99,3.5,44.38,44,35,Urgent,12-01-2025
+62,South,38,Gym Equipment,Sports,229.68,100,2.6,221.77,81,41,Urgent,23-01-2025
+63,East,64,T-shirt,Clothing,469.41,85,1.6,458.67,71,38,Urgent,03-01-2025
+64,South,51,Tennis Racket,Sports,504.65,85,3.7,459.64,88,13,Sufficient,21-01-2025
+65,North,48,Textbook,Books,354.17,53,1.8,347.51,18,43,Urgent,07-01-2025
+66,West,63,Biography,Books,847.31,97,3.9,844.87,60,42,Urgent,09-01-2025
+67,North,39,Furniture,Home & Kitchen,431.45,66,1.7,462,30,47,Urgent,09-01-2025
+68,East,62,Vacuum Cleaner,Home & Kitchen,656.26,81,3.5,711.13,40,24,Urgent,20-01-2025
+69,North,44,Blender,Home & Kitchen,891.32,63,3.4,890.57,72,31,Moderate,04-01-2025
+70,West,42,Sneakers,Clothing,885.09,100,3.9,935.63,48,18,Moderate,19-01-2025
+71,East,54,Sneakers,Clothing,622.71,39,3.2,639.86,44,16,Moderate,21-01-2025
+72,West,21,Gym Equipment,Sports,534.45,37,3.6,534.4,44,27,Urgent,20-01-2025
+73,West,55,Cookware,Home & Kitchen,480.03,46,2,446.33,14,18,Urgent,05-01-2025
+74,North,49,Football,Sports,140.32,14,2.9,142.55,26,11,Moderate,08-01-2025
+75,East,62,Smartphone,Electronics,230.29,79,2.5,222.79,22,42,Urgent,06-01-2025
+76,South,42,Jacket,Clothing,499.69,68,1.8,467.32,36,30,Urgent,09-01-2025
+77,West,64,Sneakers,Clothing,68.98,48,4.6,66.41,43,47,Urgent,03-01-2025
+78,North,29,Gym Equipment,Sports,376.08,11,3.5,367.41,75,42,Urgent,20-01-2025
+79,East,55,Yoga Mat,Sports,992.16,61,4.2,1023.41,99,31,Moderate,02-01-2025
+80,South,20,Tablet,Electronics,615.38,114,3.6,675.53,28,1,Sufficient,18-01-2025
+81,West,50,Smartphone,Electronics,797.83,55,2.5,723.19,76,49,Urgent,14-01-2025
+82,West,37,Yoga Mat,Sports,833.75,49,2.3,771.92,37,19,Urgent,12-01-2025
+83,East,20,Football,Sports,889.71,50,1.8,815.41,67,44,Urgent,20-01-2025
+84,North,47,Vacuum Cleaner,Home & Kitchen,910.99,94,2.6,826.42,58,1,Sufficient,03-01-2025
+85,North,58,Yoga Mat,Sports,336.33,57,3.5,333.9,58,44,Urgent,16-01-2025
+86,South,34,Tablet,Electronics,15.24,8,4.2,15.96,10,1,Sufficient,01-01-2025
+87,East,36,Yoga Mat,Sports,109.9,7,4.3,111.13,5,3,Urgent,11-01-2025
+88,South,39,Non-fiction,Books,367.99,85,4.2,355.44,42,6,Sufficient,04-01-2025
+89,South,61,Furniture,Home & Kitchen,999.95,36,3.2,1043.69,75,50,Urgent,13-01-2025
+90,North,42,T-shirt,Clothing,174.57,51,4.8,187.33,20,32,Urgent,16-01-2025
+91,West,24,Furniture,Home & Kitchen,412.93,47,1.7,407.5,49,47,Urgent,03-01-2025
+92,North,35,Furniture,Home & Kitchen,285.81,82,4.5,290.19,77,8,Sufficient,14-01-2025
+93,South,25,T-shirt,Clothing,656.11,80,2.2,677.41,41,5,Sufficient,22-01-2025
+94,West,37,Gym Equipment,Sports,261.12,9,1.9,269.46,25,1,Sufficient,10-01-2025
+95,North,20,Textbook,Books,708.33,74,5,639,70,12,Sufficient,14-01-2025
+96,South,60,Jacket,Clothing,776.39,58,4.4,776.45,69,12,Sufficient,19-01-2025
+97,East,59,Textbook,Books,990.16,63,2.3,939.24,85,14,Sufficient,17-01-2025
+98,West,41,Furniture,Home & Kitchen,577.84,66,4.4,626.08,25,27,Urgent,15-01-2025
+99,North,20,Tablet,Electronics,673.32,62,1.5,674.37,94,21,Moderate,09-01-2025
+100,East,61,Jeans,Clothing,722.64,14,3.2,690.44,33,17,Urgent,09-01-2025
+101,North,24,Fiction,Books,56.02,72,4.8,60.98,52,33,Urgent,08-01-2025
+102,East,31,Biography,Books,799.28,77,2.4,851.91,73,12,Sufficient,18-01-2025
+103,South,54,Fiction,Books,936.51,99,4,1025.06,19,21,Urgent,13-01-2025
+104,East,18,Fiction,Books,654.41,68,1.4,702.75,98,27,Moderate,02-01-2025
+105,West,19,Headphones,Electronics,624.45,58,4.6,627.39,64,40,Urgent,05-01-2025
+106,West,24,Tablet,Electronics,825.8,88,4.2,831.49,91,47,Urgent,19-01-2025
+107,West,22,Headphones,Electronics,16.15,34,2.9,15.88,31,24,Urgent,24-01-2025
+108,North,43,Yoga Mat,Sports,360.32,82,1.4,353.99,95,8,Sufficient,01-01-2025
+109,East,25,Yoga Mat,Sports,15.95,109,3.6,15.99,88,18,Moderate,05-01-2025
+110,North,62,Jeans,Clothing,560.62,2,3.8,596.95,65,13,Sufficient,13-01-2025
+111,South,30,Laptop,Electronics,305.52,27,4.7,333.86,17,50,Urgent,19-01-2025
+112,East,36,Non-fiction,Books,343.95,62,2.8,345.36,63,3,Sufficient,18-01-2025
+113,North,45,Fiction,Books,153.84,86,4.2,143.71,39,43,Urgent,13-01-2025
+114,West,32,Headphones,Electronics,871.73,86,4,894.5,95,1,Sufficient,03-01-2025
+115,West,61,Tennis Racket,Sports,972.82,14,2.6,993.29,69,22,Moderate,01-01-2025
+116,East,60,Vacuum Cleaner,Home & Kitchen,110.69,117,1.4,109.02,78,35,Moderate,19-01-2025
+117,East,59,Headphones,Electronics,187.55,14,1.9,200.85,32,42,Urgent,17-01-2025
+118,East,21,Furniture,Home & Kitchen,607.71,65,2.7,578.9,27,7,Moderate,21-01-2025
+119,East,60,Cookware,Home & Kitchen,108.58,22,1.5,113.96,98,24,Moderate,17-01-2025
+120,North,55,Textbook,Books,535.19,120,3,517,84,28,Moderate,17-01-2025
+121,West,51,Jacket,Clothing,64.53,60,4.3,69.92,75,20,Moderate,13-01-2025
+122,East,36,Blender,Home & Kitchen,118.71,29,1.9,113.04,32,40,Urgent,20-01-2025
+123,North,65,Jacket,Clothing,893.91,56,1,835.6,85,14,Sufficient,06-01-2025
+124,East,41,Tablet,Electronics,90.47,118,2.1,84.59,14,46,Urgent,22-01-2025
+125,South,54,Furniture,Home & Kitchen,629.6,111,1.8,579.56,97,35,Moderate,20-01-2025
+126,West,49,Gym Equipment,Sports,12.92,46,2.2,13.57,95,10,Sufficient,12-01-2025
+127,North,43,Vacuum Cleaner,Home & Kitchen,31.15,20,2.2,29.69,20,15,Urgent,20-01-2025
+128,North,22,Tablet,Electronics,837.08,22,1.7,795.71,38,9,Moderate,04-01-2025
+129,North,47,Textbook,Books,923.52,60,4.5,935.54,75,44,Urgent,24-01-2025
+130,West,51,Biography,Books,279.71,74,1.4,274.04,51,12,Moderate,07-01-2025
+131,North,25,Vacuum Cleaner,Home & Kitchen,33.21,57,5,30.89,54,25,Moderate,11-01-2025
+132,West,21,Cookware,Home & Kitchen,67.47,90,4.9,64,66,8,Sufficient,23-01-2025
+133,North,42,Tennis Racket,Sports,42.39,37,1.3,43.37,39,11,Moderate,17-01-2025
+134,South,30,Laptop,Electronics,879.25,119,4.6,890.62,43,5,Sufficient,01-01-2025
+135,South,40,Headphones,Electronics,636.79,19,4.6,639.26,93,28,Moderate,03-01-2025
+136,East,44,Football,Sports,186.52,60,2.7,204.53,12,15,Urgent,15-01-2025
+137,South,62,Cookware,Home & Kitchen,759.61,29,2.2,823.31,22,37,Urgent,09-01-2025
+138,South,50,Fiction,Books,181.33,43,3.4,181.5,16,46,Urgent,20-01-2025
+139,North,42,Cookware,Home & Kitchen,784.79,32,1.2,777.9,89,5,Sufficient,20-01-2025
+140,West,63,Yoga Mat,Sports,954.7,71,2.4,920.29,20,11,Urgent,11-01-2025
+141,East,63,Jacket,Clothing,325.35,50,2.2,310.49,12,36,Urgent,06-01-2025
+142,East,57,Cookware,Home & Kitchen,145.42,4,5,137.87,45,46,Urgent,14-01-2025
+143,South,37,Fiction,Books,805.97,4,2.7,837.69,20,14,Urgent,09-01-2025
+144,West,28,Jacket,Clothing,83.6,99,2.6,84.75,90,33,Moderate,10-01-2025
+145,East,50,Tablet,Electronics,889.09,3,3.3,967.69,30,29,Urgent,14-01-2025
+146,South,43,Biography,Books,631.62,56,2.3,588.95,79,20,Moderate,06-01-2025
+147,East,28,Fiction,Books,101.1,120,5,103.55,83,4,Sufficient,15-01-2025
+148,West,50,Biography,Books,751.85,91,4.8,807.58,91,28,Moderate,20-01-2025
+149,West,25,Biography,Books,307.95,18,4.6,334.2,38,25,Urgent,06-01-2025
+150,North,58,Football,Sports,403.24,66,4.8,439.46,22,33,Urgent,15-01-2025
+151,South,40,Headphones,Electronics,381.43,40,4.7,384.6,43,14,Moderate,01-01-2025
+152,South,61,Gym Equipment,Sports,486.9,68,2.5,468.81,72,13,Sufficient,12-01-2025
+153,South,35,Jacket,Clothing,480.99,20,2.7,477.78,6,35,Urgent,12-01-2025
+154,South,25,Non-fiction,Books,773.07,73,2.2,767.19,49,41,Urgent,11-01-2025
+155,South,21,Furniture,Home & Kitchen,219.98,118,1.8,224.52,9,43,Urgent,07-01-2025
+156,South,21,Gym Equipment,Sports,150.68,52,1.4,161.95,63,47,Urgent,21-01-2025
+157,North,36,Textbook,Books,931.71,52,2.4,930.15,85,16,Sufficient,18-01-2025
+158,East,49,Non-fiction,Books,323.51,84,3.9,315.37,88,41,Moderate,17-01-2025
+159,East,48,Textbook,Books,95.98,75,3.6,104.27,5,39,Urgent,12-01-2025
+160,East,44,Vacuum Cleaner,Home & Kitchen,381.64,64,1.8,363.97,94,29,Moderate,04-01-2025
+161,West,62,Tennis Racket,Sports,272.94,108,1.2,259.41,5,20,Urgent,21-01-2025
+162,East,63,Tennis Racket,Sports,850.14,13,3.4,849.51,72,10,Sufficient,14-01-2025
+163,South,48,Blender,Home & Kitchen,321.69,26,3.3,348.59,14,2,Sufficient,14-01-2025
+164,North,39,Blender,Home & Kitchen,604.18,118,1.7,656.92,99,50,Urgent,21-01-2025
+165,East,23,T-shirt,Clothing,146.51,116,3.4,153.41,23,15,Urgent,07-01-2025
+166,West,27,Gym Equipment,Sports,432.08,93,2.4,451.87,75,21,Moderate,02-01-2025
+167,South,44,Blender,Home & Kitchen,284.04,95,2.8,309.34,15,17,Urgent,12-01-2025
+168,West,41,Tennis Racket,Sports,37.43,27,2.4,35.24,38,5,Sufficient,05-01-2025
+169,South,55,Biography,Books,843.73,35,5,785.19,63,12,Sufficient,14-01-2025
+170,North,56,Jeans,Clothing,805.17,80,2.7,795.2,88,11,Sufficient,03-01-2025
+171,East,61,Sneakers,Clothing,660.06,45,4.7,648.16,75,42,Urgent,04-01-2025
+172,South,31,Laptop,Electronics,860.99,50,2.4,864.87,29,2,Sufficient,01-01-2025
+173,West,19,Smartphone,Electronics,71.58,56,3.3,72.83,86,16,Sufficient,20-01-2025
+174,South,49,Yoga Mat,Sports,849.13,118,3.3,824.29,32,34,Urgent,10-01-2025
+175,West,51,Fiction,Books,247.39,92,1.7,233.41,43,25,Urgent,10-01-2025
+176,West,55,Biography,Books,713.28,77,4.2,753.86,91,36,Moderate,20-01-2025
+177,East,62,Furniture,Home & Kitchen,920.01,74,1.9,931.34,53,12,Moderate,01-01-2025
+178,North,57,Tennis Racket,Sports,815.92,38,2.4,749.59,26,37,Urgent,08-01-2025
+179,East,54,Blender,Home & Kitchen,150.62,73,2.8,144.53,91,38,Moderate,13-01-2025
+180,East,64,Cookware,Home & Kitchen,636.5,77,2.7,650.37,34,25,Urgent,17-01-2025
+181,North,29,Yoga Mat,Sports,278.36,107,1.4,251.44,88,47,Urgent,24-01-2025
+182,West,44,Jacket,Clothing,631.11,4,4.7,596.18,45,30,Urgent,05-01-2025
+183,South,54,Textbook,Books,25.75,16,4,24.64,60,27,Moderate,14-01-2025
+184,West,55,T-shirt,Clothing,192.06,35,1.7,177.61,26,42,Urgent,17-01-2025
+185,North,20,Smartphone,Electronics,317.64,10,2.3,294.5,83,42,Urgent,05-01-2025
+186,East,64,Textbook,Books,467.68,87,1.2,450.66,81,32,Moderate,04-01-2025
+187,North,48,Tablet,Electronics,400.88,116,2.7,379.36,8,40,Urgent,08-01-2025
+188,North,24,Jeans,Clothing,32.66,12,4.7,31.68,56,36,Urgent,04-01-2025
+189,North,58,Furniture,Home & Kitchen,151.69,25,3.9,166.47,65,17,Moderate,19-01-2025
+190,North,21,Non-fiction,Books,227.73,11,4.4,215.81,28,14,Moderate,20-01-2025
+191,North,42,Yoga Mat,Sports,25.42,102,2.4,25.96,11,8,Urgent,12-01-2025
+192,South,36,Blender,Home & Kitchen,972.59,76,1.4,982.39,87,11,Sufficient,05-01-2025
+193,North,43,Yoga Mat,Sports,749.35,101,3.6,683.32,88,19,Moderate,06-01-2025
+194,East,20,Blender,Home & Kitchen,143.5,23,2.6,151.25,74,40,Urgent,12-01-2025
+195,West,64,T-shirt,Clothing,53.55,2,2.5,53.74,97,3,Sufficient,21-01-2025
+196,West,54,Jeans,Clothing,52.31,74,4.9,52.72,58,42,Urgent,12-01-2025
+197,South,40,Non-fiction,Books,895.95,75,3.3,813.59,67,26,Moderate,24-01-2025
+198,North,34,Gym Equipment,Sports,305.11,19,4.8,303.71,88,29,Moderate,18-01-2025
+199,North,32,Tablet,Electronics,592.7,46,1.4,579.13,84,49,Urgent,21-01-2025
+200,West,31,Gym Equipment,Sports,460.57,87,1.3,417.21,40,46,Urgent,10-01-2025
+201,South,34,Yoga Mat,Sports,466.46,55,1.9,441.97,93,44,Moderate,04-01-2025
+202,East,33,Vacuum Cleaner,Home & Kitchen,359.68,116,4.3,381.2,94,37,Moderate,13-01-2025
+203,South,54,T-shirt,Clothing,79.8,52,3.8,87.3,21,17,Urgent,17-01-2025
+204,North,58,Gym Equipment,Sports,148.02,24,2.4,148.31,24,47,Urgent,14-01-2025
+205,East,43,Sneakers,Clothing,707.29,14,1.3,697.11,7,42,Urgent,22-01-2025
+206,South,44,Yoga Mat,Sports,255.56,23,3.2,241.28,55,16,Moderate,17-01-2025
+207,East,60,Yoga Mat,Sports,715.02,93,3.1,760.38,91,13,Sufficient,06-01-2025
+208,West,20,Smartphone,Electronics,417.5,110,4.9,421.93,38,43,Urgent,16-01-2025
+209,East,26,Jeans,Clothing,567.39,113,3.1,609.02,97,4,Sufficient,11-01-2025
+210,South,40,Tennis Racket,Sports,637.6,63,2.1,601.71,13,29,Urgent,21-01-2025
+211,North,32,Fiction,Books,365.78,102,2.6,400.72,69,45,Urgent,18-01-2025
+212,South,42,Yoga Mat,Sports,359.87,101,2.4,356.54,72,23,Moderate,18-01-2025
+213,East,27,Biography,Books,603.31,108,1.9,548.72,14,31,Urgent,10-01-2025
+214,North,61,Vacuum Cleaner,Home & Kitchen,352.23,83,2,369.02,15,28,Urgent,10-01-2025
+215,South,33,Jacket,Clothing,485.81,84,2.7,487.09,85,12,Sufficient,04-01-2025
+216,North,37,Textbook,Books,958.36,30,4.3,1013.43,25,13,Urgent,24-01-2025
+217,East,55,Tablet,Electronics,905.91,35,4.6,827.2,43,26,Urgent,20-01-2025
+218,West,20,Jeans,Clothing,111.48,94,3.1,109.59,94,8,Sufficient,09-01-2025
+219,South,58,Vacuum Cleaner,Home & Kitchen,370.21,48,3.2,363.79,61,32,Urgent,10-01-2025
+220,East,57,Jacket,Clothing,537.54,30,4.7,511.43,32,41,Urgent,10-01-2025
+221,South,45,Non-fiction,Books,782.55,36,3.8,732.43,53,37,Urgent,18-01-2025
+222,North,26,Furniture,Home & Kitchen,111.29,4,2.1,118.7,55,40,Urgent,19-01-2025
+223,West,23,Tablet,Electronics,324.6,1,1,299.5,99,23,Moderate,20-01-2025
+224,North,29,T-shirt,Clothing,153.3,35,3.1,143.64,42,34,Urgent,23-01-2025
+225,North,51,Jeans,Clothing,998.24,101,3.6,984,5,40,Urgent,20-01-2025
+226,East,44,Jacket,Clothing,618.03,25,1.9,632.17,44,24,Urgent,16-01-2025
+227,North,20,Laptop,Electronics,67.92,108,1.2,64.07,50,12,Moderate,11-01-2025
+228,South,33,Biography,Books,136.23,27,2.7,141.9,33,43,Urgent,19-01-2025
+229,East,51,Tennis Racket,Sports,242.73,19,3.3,239.12,37,12,Moderate,24-01-2025
+230,East,23,Fiction,Books,181.37,15,4.7,178.94,77,23,Moderate,10-01-2025
+231,South,54,Smartphone,Electronics,312.11,59,4.2,285.21,64,42,Urgent,09-01-2025
+232,East,62,Blender,Home & Kitchen,580.05,99,3.3,557.4,31,25,Urgent,07-01-2025
+233,South,57,Smartphone,Electronics,228.15,52,2.8,227.77,74,2,Sufficient,01-01-2025
+234,North,20,Non-fiction,Books,399.04,83,3.8,398.57,65,6,Sufficient,18-01-2025
+235,South,35,Fiction,Books,981.26,3,2.1,958.54,6,39,Urgent,12-01-2025
+236,North,60,T-shirt,Clothing,311.72,64,3,329.09,67,14,Moderate,01-01-2025
+237,North,33,Smartphone,Electronics,422.48,83,2.9,434.97,19,4,Moderate,03-01-2025
+238,East,19,Biography,Books,580.28,75,1.7,602.63,8,9,Urgent,05-01-2025
+239,West,35,Blender,Home & Kitchen,547.62,44,2.4,566.74,90,22,Moderate,15-01-2025
+240,East,28,Furniture,Home & Kitchen,351.73,119,2.4,378.04,9,24,Urgent,06-01-2025
+241,East,33,Sneakers,Clothing,778.24,115,2.5,751.89,91,29,Moderate,24-01-2025
+242,West,29,Fiction,Books,724.16,107,2,789.57,11,10,Urgent,21-01-2025
+243,South,30,Smartphone,Electronics,953.2,37,2.3,879.88,62,36,Urgent,22-01-2025
+244,East,51,Yoga Mat,Sports,906.33,36,3.4,876.16,82,3,Sufficient,21-01-2025
+245,North,36,Tennis Racket,Sports,795.45,15,3.5,873.93,24,28,Urgent,07-01-2025
+246,East,44,Jacket,Clothing,947.97,57,4.6,990.01,83,24,Moderate,01-01-2025
+247,South,38,Tennis Racket,Sports,254.37,25,1.8,255.81,87,34,Moderate,09-01-2025
+248,West,62,Tablet,Electronics,772.61,106,3.4,751.49,17,29,Urgent,14-01-2025
+249,South,45,Vacuum Cleaner,Home & Kitchen,230.1,40,3.4,223.47,85,9,Sufficient,23-01-2025
+250,West,45,Textbook,Books,318.34,40,3.7,324.17,95,41,Moderate,03-01-2025
+251,West,64,Smartphone,Electronics,110.04,107,1.4,113.92,83,49,Urgent,24-01-2025
+252,South,35,Vacuum Cleaner,Home & Kitchen,312.47,118,2.9,300.7,35,43,Urgent,05-01-2025
+253,South,40,Cookware,Home & Kitchen,841.65,23,2.5,833.45,50,17,Moderate,24-01-2025
+254,South,65,Sneakers,Clothing,866.41,91,5,932.83,86,15,Sufficient,05-01-2025
+255,North,35,Blender,Home & Kitchen,818.81,98,4.7,898.77,17,13,Urgent,02-01-2025
+256,North,33,Non-fiction,Books,721.98,96,2.8,699.87,26,42,Urgent,09-01-2025
+257,North,26,Sneakers,Clothing,365.35,51,3.9,389.5,5,2,Moderate,01-01-2025
+258,East,38,Blender,Home & Kitchen,989.56,50,1,1027.82,90,46,Urgent,15-01-2025
+259,South,56,Cookware,Home & Kitchen,206.07,17,4.2,190.94,32,40,Urgent,04-01-2025
+260,West,48,Non-fiction,Books,63.94,17,1.9,69.15,69,10,Sufficient,01-01-2025
+261,South,62,Jeans,Clothing,169.83,31,1.7,178.3,94,3,Sufficient,15-01-2025
+262,South,21,T-shirt,Clothing,646.92,1,2.1,599.96,7,14,Urgent,16-01-2025
+263,East,48,Vacuum Cleaner,Home & Kitchen,984.35,39,3.3,1045.99,36,15,Moderate,22-01-2025
+264,North,26,Yoga Mat,Sports,538.11,55,3.9,535.8,61,40,Urgent,18-01-2025
+265,East,31,Headphones,Electronics,13.36,2,3.2,12.38,73,16,Moderate,12-01-2025
+266,East,23,T-shirt,Clothing,213.86,61,1.3,229.01,28,50,Urgent,24-01-2025
+267,East,54,Headphones,Electronics,519.8,108,3,534.51,66,4,Sufficient,20-01-2025
+268,West,34,T-shirt,Clothing,796.58,97,2.9,739.73,32,15,Moderate,16-01-2025
+269,West,28,Yoga Mat,Sports,405.26,43,3.9,411.32,34,41,Urgent,11-01-2025
+270,North,46,Tablet,Electronics,629.88,78,2.8,611.43,24,21,Urgent,14-01-2025
+271,South,43,Tennis Racket,Sports,30.14,60,3,28.82,8,42,Urgent,02-01-2025
+272,West,45,Non-fiction,Books,265.01,108,2,282.13,34,47,Urgent,22-01-2025
+273,West,61,Fiction,Books,22.23,33,4.4,23.52,77,36,Moderate,06-01-2025
+274,East,28,Cookware,Home & Kitchen,124.21,118,2.3,119.68,14,27,Urgent,01-01-2025
+275,North,20,Non-fiction,Books,755.71,59,4.9,778.34,79,3,Sufficient,02-01-2025
+276,South,61,T-shirt,Clothing,886.51,111,4.2,949.32,23,13,Urgent,24-01-2025
+277,North,49,Tablet,Electronics,667.51,96,3,715.1,35,1,Sufficient,19-01-2025
+278,East,50,Biography,Books,293.15,43,3.1,315.78,52,4,Sufficient,14-01-2025
+279,North,57,Cookware,Home & Kitchen,71.58,61,2,78.1,10,2,Sufficient,03-01-2025
+280,East,23,Smartphone,Electronics,683.3,6,3,732.91,85,21,Moderate,04-01-2025
+281,West,20,Fiction,Books,840.15,96,4.9,892.1,5,45,Urgent,08-01-2025
+282,West,54,Jeans,Clothing,326.41,99,2.7,344.82,63,28,Moderate,24-01-2025
+283,East,35,Yoga Mat,Sports,654.63,71,1.7,689.38,35,38,Urgent,02-01-2025
+284,West,32,Textbook,Books,194.12,70,2.8,204.56,72,28,Moderate,20-01-2025
+285,North,57,Headphones,Electronics,531,104,2.1,548.37,11,12,Urgent,03-01-2025
+286,West,58,Gym Equipment,Sports,759.08,115,4.6,686.34,62,8,Sufficient,10-01-2025
+287,South,39,Tennis Racket,Sports,98.62,35,1.1,92.46,48,27,Urgent,19-01-2025
+288,West,20,Vacuum Cleaner,Home & Kitchen,921.8,4,3.2,991.08,12,21,Urgent,17-01-2025
+289,North,45,Tablet,Electronics,958.82,72,3.7,937.2,37,25,Urgent,06-01-2025
+290,West,41,Biography,Books,480.06,14,1.6,454.76,61,34,Urgent,13-01-2025
+291,North,34,Furniture,Home & Kitchen,475.54,91,3.5,432.19,100,14,Sufficient,14-01-2025
+292,North,43,Non-fiction,Books,898.58,106,4.4,858.05,17,10,Urgent,06-01-2025
+293,East,26,Sneakers,Clothing,984.33,40,3.7,1034.08,36,13,Moderate,11-01-2025
+294,West,23,Football,Sports,856.94,46,1.5,790.31,87,42,Moderate,22-01-2025
+295,West,23,Non-fiction,Books,718.22,92,2.7,704.9,68,1,Sufficient,24-01-2025
+296,East,58,Jacket,Clothing,897.43,13,3.4,876.73,46,7,Sufficient,18-01-2025
+297,East,62,Gym Equipment,Sports,288.46,120,1.7,315.96,70,23,Moderate,06-01-2025
+298,East,53,Sneakers,Clothing,793.85,57,1.9,725.2,60,11,Sufficient,17-01-2025
+299,South,30,Biography,Books,907.64,87,4.7,880.75,89,28,Moderate,11-01-2025
+300,West,22,Fiction,Books,286.05,87,1.5,257.98,42,31,Urgent,07-01-2025
+301,West,29,Furniture,Home & Kitchen,258.22,112,3.5,271.55,5,23,Urgent,10-01-2025
+302,West,35,Jeans,Clothing,233.58,77,4,217.12,93,50,Urgent,14-01-2025
+303,South,30,Biography,Books,732.95,91,4,726.02,31,50,Urgent,22-01-2025
+304,West,21,Tennis Racket,Sports,367.81,42,4.3,376.07,55,36,Urgent,21-01-2025
+305,North,46,Jacket,Clothing,989.72,19,4.8,949.59,69,38,Urgent,09-01-2025
+306,South,26,Fiction,Books,424.75,76,3.1,453.64,99,20,Moderate,24-01-2025
+307,East,20,Smartphone,Electronics,267.69,19,1.4,292.78,59,30,Urgent,17-01-2025
+308,West,44,Yoga Mat,Sports,166.29,17,3.1,168.13,23,7,Moderate,16-01-2025
+309,East,65,Sneakers,Clothing,357.45,92,3.3,381.32,54,8,Sufficient,09-01-2025
+310,East,29,Tablet,Electronics,853.33,115,4.2,876.02,79,4,Sufficient,13-01-2025
+311,North,26,T-shirt,Clothing,338.59,72,2.2,351.61,95,30,Moderate,04-01-2025
+312,West,56,Non-fiction,Books,959.91,85,4,908.2,85,38,Moderate,06-01-2025
+313,West,43,Vacuum Cleaner,Home & Kitchen,726.6,57,1.8,697.2,29,33,Urgent,21-01-2025
+314,West,27,Biography,Books,663.93,88,4.7,688.36,82,32,Moderate,15-01-2025
+315,West,22,Football,Sports,655.23,47,4.6,631.29,39,8,Moderate,08-01-2025
+316,South,65,Furniture,Home & Kitchen,151.03,74,3.3,163.67,8,33,Urgent,22-01-2025
+317,West,58,Furniture,Home & Kitchen,428.72,86,4.7,402.38,34,27,Urgent,01-01-2025
+318,South,42,Football,Sports,661.89,9,4.8,600.43,22,16,Urgent,18-01-2025
+319,West,62,Vacuum Cleaner,Home & Kitchen,293.42,47,3.9,269.4,61,20,Moderate,24-01-2025
+320,East,57,Jacket,Clothing,82.62,71,2.5,82.57,29,27,Urgent,17-01-2025
+321,West,30,Textbook,Books,639.92,2,3.1,641.44,61,4,Sufficient,03-01-2025
+322,West,62,Jeans,Clothing,227.36,89,3.1,209.69,92,46,Moderate,20-01-2025
+323,East,18,Blender,Home & Kitchen,665.96,102,1.8,716.65,63,32,Urgent,08-01-2025
+324,West,34,Cookware,Home & Kitchen,977.28,36,3.4,881.64,23,11,Moderate,05-01-2025
+325,North,21,Cookware,Home & Kitchen,624.91,108,2.7,674.56,38,31,Urgent,18-01-2025
+326,West,54,Vacuum Cleaner,Home & Kitchen,350.83,119,4.7,335.64,21,38,Urgent,09-01-2025
+327,West,49,Fiction,Books,797.92,15,2,759.13,78,5,Sufficient,09-01-2025
+328,South,56,Jacket,Clothing,527.14,53,4.6,496.53,22,30,Urgent,16-01-2025
+329,South,19,Non-fiction,Books,715.39,59,2.3,674.21,15,49,Urgent,02-01-2025
+330,South,40,T-shirt,Clothing,727.84,49,4,753.48,56,5,Sufficient,08-01-2025
+331,West,52,Blender,Home & Kitchen,967.81,6,4.1,950.05,66,19,Moderate,01-01-2025
+332,West,57,Tablet,Electronics,229.47,106,1.8,208.31,19,1,Sufficient,24-01-2025
+333,West,26,Sneakers,Clothing,843.51,48,2.4,808.77,25,38,Urgent,19-01-2025
+334,North,25,Yoga Mat,Sports,41.95,68,4.9,40.44,66,5,Sufficient,09-01-2025
+335,East,58,Smartphone,Electronics,753.9,70,3.5,748.15,80,3,Sufficient,08-01-2025
+336,South,34,Gym Equipment,Sports,58.08,12,2.1,62.87,43,25,Urgent,24-01-2025
+337,East,18,Sneakers,Clothing,253.25,78,3.4,276.89,78,45,Urgent,04-01-2025
+338,North,35,Sneakers,Clothing,466.4,16,2.9,446.98,68,41,Urgent,12-01-2025
+339,North,46,Headphones,Electronics,306,60,2.4,294.78,56,38,Urgent,11-01-2025
+340,South,50,Football,Sports,916.71,111,1.8,864.38,38,48,Urgent,12-01-2025
+341,North,33,T-shirt,Clothing,213.38,64,2.4,208.17,35,8,Moderate,06-01-2025
+342,North,62,Cookware,Home & Kitchen,22.23,102,4,21.13,10,47,Urgent,19-01-2025
+343,East,30,Cookware,Home & Kitchen,67.66,113,1.2,62.01,20,10,Moderate,23-01-2025
+344,West,45,Football,Sports,455.96,14,1.3,448.5,66,14,Moderate,09-01-2025
+345,East,64,Furniture,Home & Kitchen,740.72,100,4.6,797.22,80,11,Sufficient,09-01-2025
+346,North,48,Blender,Home & Kitchen,413.29,91,2.3,403.29,29,2,Sufficient,13-01-2025
+347,West,49,Smartphone,Electronics,501.81,3,4.9,549.87,31,48,Urgent,04-01-2025
+348,North,24,Vacuum Cleaner,Home & Kitchen,150.99,115,2.5,140.64,71,38,Urgent,10-01-2025
+349,South,25,Furniture,Home & Kitchen,929.33,18,4.6,985.66,51,5,Sufficient,20-01-2025
+350,East,65,Non-fiction,Books,364.75,120,2.5,382.5,81,6,Sufficient,15-01-2025
+351,East,59,Vacuum Cleaner,Home & Kitchen,726.5,30,3.6,707.15,46,23,Moderate,23-01-2025
+352,East,36,Non-fiction,Books,315.65,22,2.7,305.99,89,46,Urgent,23-01-2025
+353,East,61,T-shirt,Clothing,237.47,1,5,234.6,98,36,Moderate,21-01-2025
+354,North,44,Biography,Books,510.08,19,2.7,502.61,77,26,Moderate,07-01-2025
+355,West,21,Gym Equipment,Sports,376.51,70,4.8,394.44,81,2,Sufficient,14-01-2025
+356,East,21,Biography,Books,106.72,71,1.1,106.51,29,3,Sufficient,22-01-2025
+357,North,20,Tennis Racket,Sports,79.45,99,4,73.45,87,17,Sufficient,07-01-2025
+358,South,45,Jeans,Clothing,731.69,60,3.7,797.18,91,24,Moderate,19-01-2025
+359,East,56,Non-fiction,Books,633.68,19,3.2,594.67,16,8,Moderate,01-01-2025
+360,East,46,Tablet,Electronics,130.1,75,4.1,141.62,34,20,Urgent,15-01-2025
+361,East,43,Smartphone,Electronics,720.82,80,3.5,734.63,27,46,Urgent,11-01-2025
+362,East,50,Jacket,Clothing,283.15,47,1.4,256.85,95,7,Sufficient,13-01-2025
+363,West,32,Jeans,Clothing,27.74,4,1.8,28.52,41,42,Urgent,11-01-2025
+364,South,52,Headphones,Electronics,965.33,118,3.2,941.71,45,48,Urgent,13-01-2025
+365,East,52,Tennis Racket,Sports,528.39,10,1.8,487.85,9,20,Urgent,07-01-2025
+366,West,22,Yoga Mat,Sports,249.54,63,3.2,260.73,32,6,Sufficient,04-01-2025
+367,South,58,T-shirt,Clothing,932.12,14,4.8,932.92,21,36,Urgent,09-01-2025
+368,South,38,Laptop,Electronics,429.15,4,3.3,414.24,97,40,Moderate,09-01-2025
+369,South,55,Headphones,Electronics,858.86,110,3.3,813.45,22,26,Urgent,06-01-2025
+370,East,65,Furniture,Home & Kitchen,198.69,108,3.5,200.03,98,46,Moderate,01-01-2025
+371,East,56,Jeans,Clothing,422.01,80,1.6,460.47,10,13,Urgent,06-01-2025
+372,East,59,Tennis Racket,Sports,110.76,41,4.1,108.94,10,44,Urgent,20-01-2025
+373,South,65,Vacuum Cleaner,Home & Kitchen,122.31,3,1.6,131.85,44,35,Urgent,03-01-2025
+374,South,30,Vacuum Cleaner,Home & Kitchen,365.11,103,2.7,363.61,71,5,Sufficient,11-01-2025
+375,East,20,Vacuum Cleaner,Home & Kitchen,14,43,3.7,12.95,62,3,Sufficient,24-01-2025
+376,East,58,Jeans,Clothing,375.78,77,2.5,373.23,93,45,Moderate,19-01-2025
+377,South,45,Blender,Home & Kitchen,173.49,13,3.2,164.19,49,5,Sufficient,22-01-2025
+378,North,45,Non-fiction,Books,718.6,78,2,774.31,73,28,Moderate,23-01-2025
+379,West,59,Jacket,Clothing,425.25,1,1.8,394.56,49,14,Moderate,12-01-2025
+380,East,43,Tennis Racket,Sports,674.24,120,2.9,619.67,29,4,Sufficient,12-01-2025
+381,North,43,Jacket,Clothing,775.82,55,1.6,710.54,63,18,Moderate,22-01-2025
+382,North,54,Cookware,Home & Kitchen,91.22,95,2.8,85.14,94,19,Moderate,17-01-2025
+383,North,40,Blender,Home & Kitchen,490.49,20,4.6,475.27,11,38,Urgent,21-01-2025
+384,West,38,Biography,Books,221.69,10,4.4,214.86,28,30,Urgent,20-01-2025
+385,East,33,Yoga Mat,Sports,175.89,23,4.6,177.21,97,35,Moderate,02-01-2025
+386,South,53,Fiction,Books,483.8,46,4.8,450.15,41,32,Urgent,07-01-2025
+387,East,38,Furniture,Home & Kitchen,249.29,16,2.2,257.1,97,12,Sufficient,10-01-2025
+388,North,45,Textbook,Books,806.53,108,3.7,867.61,88,41,Moderate,23-01-2025
+389,West,52,Fiction,Books,912.18,68,4.5,853.35,34,8,Moderate,20-01-2025
+390,South,30,Laptop,Electronics,863.02,37,2.4,790.95,5,34,Urgent,07-01-2025
+391,South,29,Blender,Home & Kitchen,864.88,77,4.1,804.53,90,27,Moderate,21-01-2025
+392,North,59,Biography,Books,750.92,49,2.7,771.63,10,43,Urgent,23-01-2025
+393,East,31,Blender,Home & Kitchen,446.7,22,3.2,406.22,94,33,Moderate,01-01-2025
+394,South,41,Blender,Home & Kitchen,466.8,113,4,469.64,17,30,Urgent,17-01-2025
+395,South,19,Yoga Mat,Sports,228.78,50,3.4,241.72,71,15,Moderate,24-01-2025
+396,East,63,Textbook,Books,601.07,45,2.7,600.9,51,29,Urgent,10-01-2025
+397,North,29,Biography,Books,405.13,55,1.8,368,44,16,Moderate,19-01-2025
+398,North,30,Non-fiction,Books,768.85,87,1.3,710.23,52,43,Urgent,16-01-2025
+399,South,41,Blender,Home & Kitchen,202.54,114,2.6,192.81,16,12,Urgent,07-01-2025
+400,South,51,Jacket,Clothing,474.19,93,2.7,511.31,7,8,Urgent,02-01-2025
+401,West,36,Biography,Books,890.54,85,1.9,911.42,17,46,Urgent,11-01-2025
+402,South,34,Textbook,Books,375.11,114,4.7,343.81,49,20,Moderate,20-01-2025
+403,East,28,Cookware,Home & Kitchen,467.45,29,4,453.82,89,32,Moderate,22-01-2025
+404,West,31,Fiction,Books,652.77,47,3.5,659.34,96,34,Moderate,20-01-2025
+405,North,45,Furniture,Home & Kitchen,322.92,101,4.3,297.18,24,30,Urgent,03-01-2025
+406,East,43,Sneakers,Clothing,988.64,37,1.9,960.27,15,40,Urgent,17-01-2025
+407,West,19,Headphones,Electronics,958.11,72,4.2,1035.59,94,22,Moderate,02-01-2025
+408,South,33,Laptop,Electronics,586.31,100,3.1,562.11,71,16,Moderate,04-01-2025
+409,West,23,Jeans,Clothing,161.27,42,2,152.95,16,19,Urgent,13-01-2025
+410,East,44,Laptop,Electronics,528.39,47,3.8,501.74,88,50,Urgent,16-01-2025
+411,North,28,Sneakers,Clothing,609.67,79,5,652.52,36,25,Urgent,03-01-2025
+412,East,39,Yoga Mat,Sports,618.19,80,4.8,643.15,78,26,Moderate,21-01-2025
+413,South,50,Vacuum Cleaner,Home & Kitchen,71.64,105,2.6,71.98,6,20,Urgent,16-01-2025
+414,East,35,Furniture,Home & Kitchen,779.18,56,2.1,757.03,29,38,Urgent,01-01-2025
+415,East,57,Blender,Home & Kitchen,607.8,85,2.9,653.23,77,28,Moderate,20-01-2025
+416,East,35,Biography,Books,928.73,54,3.2,914.57,62,27,Moderate,17-01-2025
+417,East,27,Fiction,Books,821.65,26,4.4,779.1,100,36,Moderate,04-01-2025
+418,South,40,Non-fiction,Books,354.54,105,4.3,373.74,38,1,Sufficient,06-01-2025
+419,East,64,Blender,Home & Kitchen,403.16,2,2.9,440.6,11,28,Urgent,20-01-2025
+420,West,51,Cookware,Home & Kitchen,25.43,37,2.7,24.68,28,5,Sufficient,10-01-2025
+421,North,64,Textbook,Books,397.71,112,2.9,379.7,16,40,Urgent,10-01-2025
+422,West,26,Tennis Racket,Sports,196.06,20,2.8,181.35,22,6,Moderate,15-01-2025
+423,South,60,Fiction,Books,655.81,94,2.1,694.1,19,19,Urgent,17-01-2025
+424,South,51,Tablet,Electronics,443.83,98,4.3,408.11,11,19,Urgent,16-01-2025
+425,West,65,Headphones,Electronics,894.24,112,2.8,862.86,29,41,Urgent,04-01-2025
+426,South,51,Jeans,Clothing,55.34,13,4.9,56.47,11,28,Urgent,17-01-2025
+427,West,63,Furniture,Home & Kitchen,861.03,117,4.9,895.89,94,29,Moderate,12-01-2025
+428,West,47,Jacket,Clothing,923.82,105,3.8,852.17,76,39,Urgent,23-01-2025
+429,East,40,Tennis Racket,Sports,704.76,44,1.2,700.47,18,26,Urgent,16-01-2025
+430,South,50,Jacket,Clothing,460.34,7,1.4,453.65,71,14,Sufficient,04-01-2025
+431,South,50,T-shirt,Clothing,261.85,57,3.9,260.29,78,3,Sufficient,10-01-2025
+432,South,40,Yoga Mat,Sports,178.89,75,2.6,175.68,25,42,Urgent,23-01-2025
+433,North,22,Vacuum Cleaner,Home & Kitchen,100.95,101,1.9,110.59,50,48,Urgent,09-01-2025
+434,East,25,Headphones,Electronics,528.41,107,3.6,512.2,88,36,Moderate,11-01-2025
+435,South,42,Non-fiction,Books,622.73,64,4.6,683.69,29,17,Urgent,11-01-2025
+436,North,20,Jacket,Clothing,218.53,39,1.3,235.05,16,9,Urgent,17-01-2025
+437,North,56,Fiction,Books,120.08,111,4.6,125.81,52,24,Moderate,03-01-2025
+438,West,27,Laptop,Electronics,858.61,114,4.9,857.62,79,30,Moderate,24-01-2025
+439,West,60,Headphones,Electronics,190.32,74,2.5,188.55,78,27,Moderate,11-01-2025
+440,South,27,Furniture,Home & Kitchen,671,43,4.1,633.04,83,18,Moderate,20-01-2025
+441,North,58,Headphones,Electronics,253.74,74,2.5,239.11,47,48,Urgent,19-01-2025
+442,North,26,Headphones,Electronics,514.79,16,2.2,551.35,17,34,Urgent,21-01-2025
+443,South,50,Football,Sports,71.93,13,1.2,75.22,45,32,Urgent,17-01-2025
+444,East,55,Blender,Home & Kitchen,865.69,100,4,941.13,42,45,Urgent,06-01-2025
+445,West,61,Furniture,Home & Kitchen,423.45,117,4,422.96,57,1,Sufficient,14-01-2025
+446,North,28,T-shirt,Clothing,788.04,24,2.1,789.87,87,47,Urgent,23-01-2025
+447,East,26,Vacuum Cleaner,Home & Kitchen,210.06,31,3.1,226.89,16,43,Urgent,19-01-2025
+448,North,37,Vacuum Cleaner,Home & Kitchen,592.02,23,2.6,550.1,34,3,Sufficient,01-01-2025
+449,South,57,Textbook,Books,204.08,48,1.5,198.69,45,40,Urgent,05-01-2025
+450,South,31,Tennis Racket,Sports,579.92,8,1.2,535.42,68,48,Urgent,20-01-2025
+451,West,29,Jeans,Clothing,124.59,82,1.7,125.91,58,22,Moderate,02-01-2025
+452,South,35,Laptop,Electronics,722.27,92,2.4,769.68,7,4,Urgent,09-01-2025
+453,North,29,Blender,Home & Kitchen,299.54,90,1,270.32,84,16,Sufficient,05-01-2025
+454,North,57,Tennis Racket,Sports,505.57,96,4.9,493.13,44,8,Sufficient,03-01-2025
+455,North,29,T-shirt,Clothing,615.46,6,3.4,666.99,62,37,Urgent,05-01-2025
+456,South,18,Gym Equipment,Sports,201.69,111,3.9,186.93,29,12,Moderate,06-01-2025
+457,East,40,Laptop,Electronics,366.04,13,2.5,366.64,33,49,Urgent,20-01-2025
+458,South,33,Football,Sports,697.19,29,1.7,710.79,96,9,Sufficient,15-01-2025
+459,North,63,Biography,Books,987.62,9,2.4,1037.35,26,43,Urgent,16-01-2025
+460,North,54,Blender,Home & Kitchen,788.6,85,3.8,725.24,87,10,Sufficient,23-01-2025
+461,East,59,Tablet,Electronics,398.6,19,3.8,390.48,35,33,Urgent,04-01-2025
+462,East,24,Yoga Mat,Sports,995.42,91,1.1,912.48,65,14,Moderate,07-01-2025
+463,South,53,Fiction,Books,444.1,14,1.9,474.44,98,20,Moderate,13-01-2025
+464,West,46,Laptop,Electronics,902.98,115,1.7,953.42,93,8,Sufficient,14-01-2025
+465,South,29,T-shirt,Clothing,151.49,116,2.9,151.84,89,17,Sufficient,24-01-2025
+466,South,20,Football,Sports,812.2,6,2.7,805.31,36,20,Urgent,03-01-2025
+467,North,40,Gym Equipment,Sports,527.43,58,1.8,513.98,93,13,Sufficient,17-01-2025
+468,North,30,T-shirt,Clothing,319.89,109,1.3,313.12,7,30,Urgent,23-01-2025
+469,North,39,Blender,Home & Kitchen,158.14,32,2.4,152.26,55,31,Urgent,05-01-2025
+470,South,30,Headphones,Electronics,612.41,103,1.6,582.59,84,27,Moderate,08-01-2025
+471,East,51,Furniture,Home & Kitchen,567.27,76,2.5,540.05,8,6,Urgent,19-01-2025
+472,North,45,Sneakers,Clothing,196.62,95,1.3,214.34,6,18,Urgent,17-01-2025
+473,West,37,Tablet,Electronics,752.46,81,1.8,714.79,71,31,Moderate,22-01-2025
+474,North,19,Headphones,Electronics,124.06,16,1.3,124.77,35,4,Sufficient,19-01-2025
+475,North,37,Jacket,Clothing,355.81,104,4.1,360.65,73,23,Moderate,20-01-2025
+476,North,25,Headphones,Electronics,455.62,21,3.1,431.35,70,14,Sufficient,16-01-2025
+477,South,41,Sneakers,Clothing,771.99,16,2.4,841.83,29,43,Urgent,13-01-2025
+478,West,33,Headphones,Electronics,654.41,105,1.7,644.96,64,45,Urgent,09-01-2025
+479,South,22,Jeans,Clothing,36.3,92,3.2,36.09,69,33,Moderate,21-01-2025
+480,West,46,Blender,Home & Kitchen,342.82,99,3.5,341.61,98,19,Sufficient,23-01-2025
+481,South,44,Football,Sports,613.15,118,2.9,558.09,90,13,Sufficient,01-01-2025
+482,North,63,Jacket,Clothing,883.19,98,4.1,852.18,19,45,Urgent,06-01-2025
+483,North,25,Jeans,Clothing,668.97,50,2,734.94,60,13,Moderate,04-01-2025
+484,West,56,Gym Equipment,Sports,987.97,118,3.2,1070.7,52,24,Moderate,15-01-2025
+485,South,27,Furniture,Home & Kitchen,848.81,117,3.6,866.28,70,47,Urgent,11-01-2025
+486,East,21,Jacket,Clothing,565.17,97,1.8,576.6,32,49,Urgent,16-01-2025
+487,East,65,Fiction,Books,268.19,22,3.6,279.63,31,23,Urgent,15-01-2025
+488,North,28,Smartphone,Electronics,953.54,64,4.1,934.23,60,7,Sufficient,11-01-2025
+489,West,21,Sneakers,Clothing,560.55,67,2.1,605.88,65,37,Urgent,13-01-2025
+490,North,62,T-shirt,Clothing,882.57,81,2.8,818.96,67,4,Sufficient,08-01-2025
+491,North,48,Tablet,Electronics,156.09,8,1,143.1,21,24,Urgent,06-01-2025
+492,North,65,Sneakers,Clothing,67.91,21,2.7,66.19,14,10,Urgent,04-01-2025
+493,East,52,Tennis Racket,Sports,435.29,26,2.6,422.9,81,35,Moderate,05-01-2025
+494,North,62,Cookware,Home & Kitchen,925.21,82,3.6,903.97,94,42,Moderate,14-01-2025
+495,South,26,Yoga Mat,Sports,993.93,111,1.3,909,79,50,Urgent,13-01-2025
+496,West,21,Biography,Books,416.95,92,2.3,397.22,52,28,Urgent,06-01-2025
+497,South,33,Cookware,Home & Kitchen,670.98,108,3.3,702.34,43,34,Urgent,01-01-2025
+498,East,23,Tablet,Electronics,753.17,4,1.5,784.83,14,47,Urgent,24-01-2025
+499,South,51,T-shirt,Clothing,915.96,17,1.6,832.3,34,26,Urgent,16-01-2025
+500,North,36,Jeans,Clothing,931.95,110,4.2,1024.27,62,31,Moderate,05-01-2025
+501,South,56,Gym Equipment,Sports,432.99,59,2.6,475.91,9,35,Urgent,03-01-2025
+502,South,54,Gym Equipment,Sports,439.15,53,1.5,446.46,71,42,Urgent,20-01-2025
+503,South,56,Furniture,Home & Kitchen,551.81,52,3.8,580.76,12,21,Urgent,14-01-2025
+504,West,46,Cookware,Home & Kitchen,806.04,120,2.7,782.98,44,36,Urgent,23-01-2025
+505,North,28,Fiction,Books,310.2,18,2.4,281.77,34,26,Urgent,19-01-2025
+506,West,51,Jeans,Clothing,971.68,119,3.4,1016.26,84,31,Moderate,12-01-2025
+507,West,60,Tennis Racket,Sports,987.07,69,1.8,1077.71,79,47,Urgent,14-01-2025
+508,North,48,Smartphone,Electronics,207.61,95,3.6,225.52,5,23,Urgent,12-01-2025
+509,East,55,Headphones,Electronics,131.09,57,4.8,135.02,53,14,Moderate,14-01-2025
+510,North,47,Non-fiction,Books,255.99,1,4.5,269.66,27,47,Urgent,12-01-2025
+511,South,22,Biography,Books,516.57,41,2.7,531.89,98,6,Sufficient,10-01-2025
+512,South,39,Blender,Home & Kitchen,779.31,37,3.7,736.45,95,5,Sufficient,08-01-2025
+513,South,40,Biography,Books,209.62,60,1.2,229.83,63,49,Urgent,12-01-2025
+514,West,38,T-shirt,Clothing,58.92,8,2,58.79,19,8,Moderate,06-01-2025
+515,South,64,Football,Sports,810.54,39,3.4,751.96,99,21,Moderate,09-01-2025
+516,East,42,Vacuum Cleaner,Home & Kitchen,29.73,10,4.7,29.19,26,30,Urgent,10-01-2025
+517,North,35,Jacket,Clothing,601,90,4.7,589.81,67,48,Urgent,06-01-2025
+518,North,46,Jacket,Clothing,476.46,81,2.2,488.44,45,4,Sufficient,05-01-2025
+519,North,64,Headphones,Electronics,297.07,118,4.7,325.72,38,41,Urgent,20-01-2025
+520,North,24,Sneakers,Clothing,728.73,27,2.8,739.52,41,21,Urgent,12-01-2025
+521,West,65,Yoga Mat,Sports,357.05,18,3.5,329.79,36,39,Urgent,11-01-2025
+522,South,42,Smartphone,Electronics,898.32,16,1.3,921.88,15,48,Urgent,13-01-2025
+523,North,44,Textbook,Books,139.84,62,4.9,151.08,76,43,Urgent,03-01-2025
+524,South,21,Tennis Racket,Sports,799.79,112,4.9,823.7,5,46,Urgent,20-01-2025
+525,East,24,Textbook,Books,423.05,91,1.1,437.99,12,23,Urgent,22-01-2025
+526,North,23,Blender,Home & Kitchen,821.97,13,1.5,878.25,7,47,Urgent,02-01-2025
+527,North,64,Non-fiction,Books,84.41,86,3.1,76.23,81,9,Sufficient,15-01-2025
+528,South,29,Jeans,Clothing,169.71,101,3.8,170.92,73,49,Urgent,24-01-2025
+529,South,35,Textbook,Books,723.89,102,3.8,688.35,97,3,Sufficient,03-01-2025
+530,South,22,Textbook,Books,553.74,113,4.1,562.65,10,9,Urgent,24-01-2025
+531,East,21,Blender,Home & Kitchen,713.49,33,2.7,767.74,79,35,Moderate,01-01-2025
+532,West,58,Smartphone,Electronics,338.07,111,3.7,307.23,62,39,Urgent,14-01-2025
+533,West,50,Jacket,Clothing,246.64,74,2.1,257.1,88,37,Moderate,10-01-2025
+534,North,63,Headphones,Electronics,285.3,110,2.2,261.17,67,20,Moderate,04-01-2025
+535,South,27,Jacket,Clothing,761.25,76,4.2,829.36,8,2,Moderate,24-01-2025
+536,North,35,Yoga Mat,Sports,514.27,103,2,524.41,30,45,Urgent,14-01-2025
+537,East,22,Non-fiction,Books,287.4,16,4.6,259.42,38,41,Urgent,03-01-2025
+538,North,41,Textbook,Books,627.46,37,1.7,645.64,24,28,Urgent,21-01-2025
+539,South,63,T-shirt,Clothing,621.18,118,1.7,666.97,60,6,Sufficient,10-01-2025
+540,West,29,Cookware,Home & Kitchen,720.46,21,1.3,728.6,52,11,Moderate,09-01-2025
+541,East,38,Jeans,Clothing,730.03,7,1.2,730.68,19,16,Urgent,17-01-2025
+542,East,32,Tablet,Electronics,197.24,7,2.9,216.12,17,13,Urgent,01-01-2025
+543,East,56,Non-fiction,Books,16.04,76,2.4,15.23,80,37,Moderate,16-01-2025
+544,South,37,Biography,Books,887.62,81,1.3,874.68,69,37,Urgent,04-01-2025
+545,South,19,T-shirt,Clothing,228.64,117,4.5,217.2,83,10,Sufficient,19-01-2025
+546,North,31,Tablet,Electronics,265.44,17,4.6,252.35,24,20,Urgent,09-01-2025
+547,South,29,Gym Equipment,Sports,763.66,108,3.4,720.13,45,19,Moderate,13-01-2025
+548,North,28,Vacuum Cleaner,Home & Kitchen,986.78,119,4.6,900.69,69,21,Moderate,09-01-2025
+549,North,30,Football,Sports,811.18,15,3.9,812.39,30,44,Urgent,17-01-2025
+550,North,36,Textbook,Books,102.35,4,3.3,102.76,90,8,Sufficient,18-01-2025
+551,North,39,Headphones,Electronics,764.64,82,4.8,831.96,83,5,Sufficient,04-01-2025
+552,North,64,Headphones,Electronics,252.88,14,3.2,246.48,95,48,Urgent,05-01-2025
+553,West,37,Cookware,Home & Kitchen,558.6,83,3.8,511.96,24,34,Urgent,10-01-2025
+554,North,40,Smartphone,Electronics,39.43,85,1.4,40.13,53,8,Sufficient,23-01-2025
+555,South,45,Fiction,Books,269.57,28,3.2,251.71,25,46,Urgent,07-01-2025
+556,West,50,Football,Sports,684.32,110,4.3,645.31,69,38,Urgent,15-01-2025
+557,East,47,Textbook,Books,917.22,93,3.3,965.52,50,33,Urgent,06-01-2025
+558,South,60,Smartphone,Electronics,44.56,108,4.9,40.65,89,29,Moderate,07-01-2025
+559,West,51,Non-fiction,Books,968.13,17,3.8,1021.15,17,36,Urgent,17-01-2025
+560,North,31,Yoga Mat,Sports,126.18,82,2,114.68,84,24,Moderate,24-01-2025
+561,North,37,Laptop,Electronics,701.36,120,1.6,710.16,81,10,Sufficient,08-01-2025
+562,South,50,Textbook,Books,867.19,120,3.3,894.93,19,47,Urgent,15-01-2025
+563,West,38,Biography,Books,839.45,30,2.5,818.67,57,28,Moderate,24-01-2025
+564,North,60,Blender,Home & Kitchen,118.78,53,4.3,117.58,77,20,Moderate,21-01-2025
+565,South,60,Jacket,Clothing,401.76,14,4.9,367.58,33,18,Urgent,09-01-2025
+566,North,44,Furniture,Home & Kitchen,966.03,75,2.7,928.6,6,9,Urgent,10-01-2025
+567,East,19,Laptop,Electronics,616.63,56,4.5,581.85,83,27,Moderate,14-01-2025
+568,West,47,Laptop,Electronics,79.4,24,4.5,77.51,20,17,Urgent,23-01-2025
+569,South,20,T-shirt,Clothing,33.21,37,2,31.87,40,50,Urgent,21-01-2025
+570,West,52,Yoga Mat,Sports,348.75,76,2.7,350.57,77,3,Sufficient,19-01-2025
+571,North,30,Laptop,Electronics,124.83,82,1.2,125.47,17,27,Urgent,17-01-2025
+572,West,62,Fiction,Books,61.07,64,2.2,60.88,76,21,Moderate,09-01-2025
+573,East,59,Jacket,Clothing,46.98,99,1.4,44.4,47,15,Moderate,09-01-2025
+574,West,43,Biography,Books,87.22,119,2.6,94.56,25,27,Urgent,09-01-2025
+575,South,59,Cookware,Home & Kitchen,352.03,118,3.1,332.73,48,24,Moderate,02-01-2025
+576,North,51,Football,Sports,201.08,20,3,199.97,24,32,Urgent,12-01-2025
+577,North,63,Yoga Mat,Sports,975.28,61,1.2,936.36,92,5,Sufficient,19-01-2025
+578,West,23,Yoga Mat,Sports,516.72,107,4.5,535.98,54,37,Urgent,22-01-2025
+579,North,49,Textbook,Books,829.87,15,2.4,882.94,49,7,Sufficient,14-01-2025
+580,North,53,Football,Sports,56.61,49,2.6,52.45,33,40,Urgent,15-01-2025
+581,West,41,T-shirt,Clothing,549.3,27,2.9,505.6,42,35,Urgent,18-01-2025
+582,North,24,Sneakers,Clothing,230.83,109,1.7,252.1,79,22,Moderate,23-01-2025
+583,East,45,Tennis Racket,Sports,112.49,45,2.3,118.65,9,11,Urgent,16-01-2025
+584,North,38,Sneakers,Clothing,939.93,81,3.7,857.77,65,41,Urgent,13-01-2025
+585,East,53,Smartphone,Electronics,45.47,18,4.9,41.2,62,30,Moderate,07-01-2025
+586,West,51,Cookware,Home & Kitchen,568.27,90,3.8,560.76,58,11,Sufficient,23-01-2025
+587,East,40,Sneakers,Clothing,73.95,3,3.4,76.43,34,14,Moderate,17-01-2025
+588,South,44,Tablet,Electronics,168.7,10,3.2,183.36,51,20,Moderate,23-01-2025
+589,North,51,Jacket,Clothing,985.55,99,4.6,935.04,24,41,Urgent,09-01-2025
+590,North,49,Laptop,Electronics,236.51,77,4.7,227.48,82,37,Moderate,14-01-2025
+591,East,31,Tablet,Electronics,462.39,50,3.8,439.32,25,35,Urgent,04-01-2025
+592,South,65,Smartphone,Electronics,150.95,78,2.8,148.18,65,22,Moderate,17-01-2025
+593,East,23,T-shirt,Clothing,384.63,103,4.1,354.88,48,47,Urgent,19-01-2025
+594,West,55,Furniture,Home & Kitchen,954.62,37,2.7,1036.01,27,2,Sufficient,05-01-2025
+595,South,26,Tablet,Electronics,707.03,8,4.8,680.08,56,28,Moderate,19-01-2025
+596,South,54,Headphones,Electronics,502.37,73,4.7,475.83,24,41,Urgent,17-01-2025
+597,West,27,Jeans,Clothing,509.27,100,3.9,464.15,30,40,Urgent,22-01-2025
+598,East,40,Tablet,Electronics,390.05,15,4.9,366.95,9,15,Urgent,18-01-2025
+599,East,59,Tablet,Electronics,990.18,13,3.4,1032.27,16,30,Urgent,01-01-2025
+600,West,55,Smartphone,Electronics,633.92,101,3,651.99,76,12,Sufficient,20-01-2025
+601,East,21,Biography,Books,528.36,25,3.6,512.98,67,43,Urgent,01-01-2025
+602,West,31,Yoga Mat,Sports,194.58,113,2.7,202.33,43,21,Moderate,06-01-2025
+603,West,56,Jeans,Clothing,666.9,71,2.6,698.16,75,13,Sufficient,13-01-2025
+604,North,63,Sneakers,Clothing,62.7,22,4.9,64.83,73,4,Sufficient,22-01-2025
+605,South,40,Tennis Racket,Sports,519.52,20,1.4,470.91,89,14,Sufficient,13-01-2025
+606,South,45,Laptop,Electronics,926.03,54,4.9,930.86,36,13,Moderate,10-01-2025
+607,West,24,Jeans,Clothing,887.24,115,2.6,923.87,89,19,Moderate,16-01-2025
+608,East,44,Jeans,Clothing,725.56,59,3.2,740.07,90,40,Moderate,19-01-2025
+609,South,35,Headphones,Electronics,905.39,111,2.7,979.12,33,46,Urgent,03-01-2025
+610,East,42,Tennis Racket,Sports,887.59,94,1.2,813.86,24,41,Urgent,07-01-2025
+611,South,65,Headphones,Electronics,890.04,80,4.3,931.47,96,17,Sufficient,15-01-2025
+612,West,54,Non-fiction,Books,569.28,55,2.7,603.21,77,44,Urgent,13-01-2025
+613,West,22,Tablet,Electronics,162.73,38,1.7,151.63,74,26,Moderate,22-01-2025
+614,North,41,Smartphone,Electronics,991.18,59,2.3,970.71,40,28,Urgent,04-01-2025
+615,West,43,Yoga Mat,Sports,772.58,43,3.2,805.87,85,48,Urgent,21-01-2025
+616,North,30,Biography,Books,197.44,70,2.3,215.12,50,35,Urgent,06-01-2025
+617,South,55,Furniture,Home & Kitchen,352.81,104,1.2,323.53,9,13,Urgent,11-01-2025
+618,North,50,Furniture,Home & Kitchen,219.04,53,2.2,239.77,35,21,Urgent,20-01-2025
+619,North,20,Non-fiction,Books,305.01,55,2.7,328.66,12,50,Urgent,18-01-2025
+620,North,50,Sneakers,Clothing,293.84,64,2.9,267.05,51,13,Moderate,23-01-2025
+621,South,27,Fiction,Books,644.14,82,1.1,633.75,96,7,Sufficient,13-01-2025
+622,South,48,Gym Equipment,Sports,901.45,117,1.1,960.25,43,37,Urgent,20-01-2025
+623,West,45,Vacuum Cleaner,Home & Kitchen,847.86,67,2.6,901.39,49,19,Moderate,19-01-2025
+624,East,52,Cookware,Home & Kitchen,830.08,69,4.7,754.64,93,42,Moderate,08-01-2025
+625,South,65,Biography,Books,186.27,46,3.5,191.36,87,8,Sufficient,03-01-2025
+626,West,30,Jacket,Clothing,495.26,38,2.5,493.86,99,35,Moderate,14-01-2025
+627,North,37,Laptop,Electronics,422.87,86,1.8,385.09,44,47,Urgent,22-01-2025
+628,West,35,Furniture,Home & Kitchen,789.44,22,1.2,820.96,77,20,Moderate,18-01-2025
+629,North,51,Textbook,Books,85.12,114,4.8,81.46,25,31,Urgent,12-01-2025
+630,East,19,Smartphone,Electronics,645.69,7,1.7,613.97,60,24,Moderate,11-01-2025
+631,South,60,Football,Sports,70.32,50,3.9,66.5,65,40,Urgent,01-01-2025
+632,West,22,Football,Sports,718.95,8,2.2,690.99,19,47,Urgent,06-01-2025
+633,West,62,Jeans,Clothing,29.38,100,3.6,30.12,6,12,Urgent,14-01-2025
+634,West,24,Non-fiction,Books,350.13,101,2.4,381.18,91,2,Sufficient,05-01-2025
+635,East,56,T-shirt,Clothing,635.01,78,4.9,653.76,87,22,Moderate,10-01-2025
+636,West,52,Tennis Racket,Sports,143.25,110,1.6,136.49,65,43,Urgent,06-01-2025
+637,West,44,Blender,Home & Kitchen,998.1,81,1.4,957.9,83,50,Urgent,22-01-2025
+638,West,37,Smartphone,Electronics,565.7,31,2.3,619.5,55,12,Moderate,09-01-2025
+639,South,64,Jacket,Clothing,301.49,119,2.6,275.82,90,42,Moderate,19-01-2025
+640,West,41,Biography,Books,422.77,104,4.5,448.45,22,29,Urgent,13-01-2025
+641,South,20,Smartphone,Electronics,800.26,61,3.2,731.51,43,41,Urgent,01-01-2025
+642,South,56,Fiction,Books,802.16,61,2.2,768.46,25,37,Urgent,15-01-2025
+643,East,25,Blender,Home & Kitchen,653.01,60,4.9,603.2,89,30,Moderate,04-01-2025
+644,North,24,Tablet,Electronics,401.44,82,1.5,397.78,68,8,Sufficient,09-01-2025
+645,North,51,Jacket,Clothing,237.46,108,1.3,255.1,100,8,Sufficient,17-01-2025
+646,North,37,Gym Equipment,Sports,141.4,40,4.8,129.4,100,1,Sufficient,23-01-2025
+647,East,35,Biography,Books,804.79,22,4,752.95,91,50,Urgent,12-01-2025
+648,South,61,Yoga Mat,Sports,495.93,49,3.1,515.36,37,21,Urgent,06-01-2025
+649,South,58,Yoga Mat,Sports,907.16,32,4.9,956.19,82,5,Sufficient,11-01-2025
+650,East,45,Vacuum Cleaner,Home & Kitchen,289.04,55,4.6,274.62,49,47,Urgent,14-01-2025
+651,South,62,Textbook,Books,489.17,81,2,532.01,87,46,Urgent,12-01-2025
+652,North,19,Gym Equipment,Sports,25.53,81,1.8,24.1,23,14,Urgent,14-01-2025
+653,North,21,Blender,Home & Kitchen,180.13,117,1,176.22,58,37,Urgent,24-01-2025
+654,South,19,Yoga Mat,Sports,667.56,62,2.3,667.47,92,9,Sufficient,19-01-2025
+655,East,21,Furniture,Home & Kitchen,486.86,80,1.6,520.33,6,30,Urgent,11-01-2025
+656,South,18,Tablet,Electronics,114.5,28,1.6,124.56,66,17,Moderate,12-01-2025
+657,North,19,Laptop,Electronics,389.03,22,3.3,364.77,23,18,Urgent,03-01-2025
+658,South,28,Football,Sports,954.84,117,1.7,994.95,23,26,Urgent,06-01-2025
+659,East,25,Textbook,Books,652.56,37,3.7,610.82,14,23,Urgent,23-01-2025
+660,West,20,Jacket,Clothing,537.77,113,4.5,496.78,49,6,Sufficient,11-01-2025
+661,North,50,Sneakers,Clothing,430.59,36,4.6,393.16,36,25,Urgent,24-01-2025
+662,South,59,T-shirt,Clothing,701.44,30,4.3,651.58,99,49,Moderate,20-01-2025
+663,East,53,Blender,Home & Kitchen,867.84,89,4.7,827.95,96,27,Moderate,19-01-2025
+664,South,46,Gym Equipment,Sports,340.83,3,1.9,329.28,100,31,Moderate,23-01-2025
+665,North,63,Non-fiction,Books,746.78,28,4.6,743.34,60,5,Sufficient,10-01-2025
+666,West,55,Vacuum Cleaner,Home & Kitchen,167.84,44,2.7,180.77,7,50,Urgent,09-01-2025
+667,South,24,Headphones,Electronics,531.98,3,4,573.5,55,36,Urgent,11-01-2025
+668,West,18,Biography,Books,873,79,4.7,875.42,76,45,Urgent,23-01-2025
+669,North,42,Fiction,Books,400.87,108,1.3,399.17,46,49,Urgent,14-01-2025
+670,South,38,Textbook,Books,806.24,63,1.4,880.91,43,22,Urgent,05-01-2025
+671,East,19,Jeans,Clothing,52.45,105,1.7,55.65,27,30,Urgent,19-01-2025
+672,South,43,Yoga Mat,Sports,499.01,14,1.4,502.28,26,10,Moderate,21-01-2025
+673,North,24,Jacket,Clothing,586.54,79,2.7,575.72,43,41,Urgent,08-01-2025
+674,North,55,Jeans,Clothing,513.25,77,1.3,474.69,90,21,Moderate,18-01-2025
+675,North,30,Tennis Racket,Sports,430.8,34,3.9,440.26,86,46,Urgent,10-01-2025
+676,East,52,Yoga Mat,Sports,791.62,117,3.5,790.36,8,41,Urgent,08-01-2025
+677,South,48,Jacket,Clothing,730.5,111,1.8,659.09,23,48,Urgent,14-01-2025
+678,North,62,Cookware,Home & Kitchen,693.22,37,1.2,760.08,73,31,Moderate,16-01-2025
+679,South,28,Fiction,Books,756.1,89,3.6,726.28,41,12,Moderate,21-01-2025
+680,East,55,Sneakers,Clothing,846.7,60,1.9,920.27,91,36,Moderate,17-01-2025
+681,West,20,Biography,Books,511.6,115,2.1,500.7,99,8,Sufficient,18-01-2025
+682,South,31,Yoga Mat,Sports,786.79,15,3.1,723.03,80,39,Moderate,18-01-2025
+683,East,27,Laptop,Electronics,222.78,87,4.1,225.96,37,40,Urgent,23-01-2025
+684,East,21,Yoga Mat,Sports,181,54,2.2,163.19,97,40,Moderate,22-01-2025
+685,South,54,Biography,Books,668.82,49,2.9,639.33,58,7,Sufficient,24-01-2025
+686,South,61,Jeans,Clothing,392.83,33,2.2,398.03,35,49,Urgent,09-01-2025
+687,East,26,Gym Equipment,Sports,430.46,4,3,402.23,9,17,Urgent,11-01-2025
+688,East,27,Headphones,Electronics,738.14,27,3.5,670.1,63,15,Moderate,06-01-2025
+689,North,60,T-shirt,Clothing,318.47,16,4.6,347.03,17,27,Urgent,04-01-2025
+690,North,57,Biography,Books,958.91,7,4,897.84,30,6,Sufficient,20-01-2025
+691,North,42,Yoga Mat,Sports,676.02,96,1.6,737.81,58,11,Sufficient,14-01-2025
+692,West,54,Cookware,Home & Kitchen,275.55,49,4.8,297.31,14,46,Urgent,11-01-2025
+693,South,29,Laptop,Electronics,295.74,24,4.6,280.23,84,37,Moderate,06-01-2025
+694,North,38,Tablet,Electronics,190.52,113,3.2,178.84,24,20,Urgent,16-01-2025
+695,South,52,Blender,Home & Kitchen,825.98,12,2.2,799.85,8,4,Moderate,15-01-2025
+696,South,49,Fiction,Books,726.7,45,1.6,683.35,87,45,Urgent,02-01-2025
+697,South,40,Tennis Racket,Sports,155.94,60,4.5,153.06,68,2,Sufficient,05-01-2025
+698,North,53,Non-fiction,Books,392.21,72,1.6,355.86,85,17,Sufficient,16-01-2025
+699,West,22,Non-fiction,Books,680.51,8,2.4,648.18,37,16,Moderate,22-01-2025
+700,South,65,Laptop,Electronics,366.88,40,1.5,340.71,95,8,Sufficient,16-01-2025
+701,North,54,Yoga Mat,Sports,72.93,5,2.4,74.91,70,3,Sufficient,24-01-2025
+702,West,60,Furniture,Home & Kitchen,97.7,106,3.6,97.38,88,45,Urgent,21-01-2025
+703,East,27,Fiction,Books,888.2,93,2.1,956.89,49,50,Urgent,15-01-2025
+704,North,55,Laptop,Electronics,509.47,63,4.6,487,33,48,Urgent,15-01-2025
+705,West,65,T-shirt,Clothing,136.28,34,3.3,134.51,13,31,Urgent,05-01-2025
+706,South,53,T-shirt,Clothing,98.46,75,1.9,106.85,43,35,Urgent,24-01-2025
+707,North,30,Fiction,Books,556.52,88,3.4,503.79,30,16,Urgent,14-01-2025
+708,North,37,Yoga Mat,Sports,194.16,47,3.5,203.8,55,35,Urgent,15-01-2025
+709,South,40,Tablet,Electronics,730.56,86,4.2,706.97,80,2,Sufficient,06-01-2025
+710,West,49,Headphones,Electronics,977.4,119,3.1,934.18,61,21,Moderate,14-01-2025
+711,East,48,Yoga Mat,Sports,434.32,92,3.4,462.9,55,25,Moderate,15-01-2025
+712,South,58,Tablet,Electronics,775.64,67,3.9,838.01,89,16,Sufficient,04-01-2025
+713,West,51,Tablet,Electronics,607.38,90,1.6,631.75,89,31,Moderate,06-01-2025
+714,South,61,Blender,Home & Kitchen,795.26,21,2.9,847.22,70,22,Moderate,06-01-2025
+715,North,42,T-shirt,Clothing,105.66,78,1.6,102.8,71,37,Urgent,16-01-2025
+716,South,47,Fiction,Books,327.76,92,4.5,317.59,24,31,Urgent,03-01-2025
+717,West,19,Jacket,Clothing,63.74,107,3.5,67.59,57,34,Urgent,17-01-2025
+718,North,19,Furniture,Home & Kitchen,50.2,97,3.3,50.44,19,12,Urgent,06-01-2025
+719,South,47,Tennis Racket,Sports,298.58,7,2.6,320.66,51,21,Moderate,02-01-2025
+720,East,29,Fiction,Books,754.31,67,2,704.69,89,41,Moderate,06-01-2025
+721,West,54,Jacket,Clothing,235.8,46,2,219.74,38,18,Moderate,18-01-2025
+722,North,57,Gym Equipment,Sports,145.34,105,2.8,134.05,6,20,Urgent,21-01-2025
+723,North,57,Tablet,Electronics,631.06,78,1.8,605.27,80,35,Moderate,06-01-2025
+724,East,26,Tennis Racket,Sports,393.99,18,3.7,429.71,67,18,Moderate,21-01-2025
+725,West,27,Jeans,Clothing,824.42,69,1.8,847.13,74,38,Urgent,08-01-2025
+726,South,40,Football,Sports,184.62,66,3.1,180.49,15,35,Urgent,14-01-2025
+727,North,19,Non-fiction,Books,451.64,35,2.6,425.6,49,48,Urgent,05-01-2025
+728,East,21,Tablet,Electronics,762.24,16,2.6,732.24,74,50,Urgent,03-01-2025
+729,South,60,Tennis Racket,Sports,676.05,80,5,684.65,67,12,Sufficient,12-01-2025
+730,North,20,T-shirt,Clothing,513,67,1.4,484.3,88,28,Moderate,21-01-2025
+731,West,25,Blender,Home & Kitchen,704.39,111,1.7,749.49,10,44,Urgent,21-01-2025
+732,West,24,Laptop,Electronics,840.38,12,4.7,913.98,24,4,Sufficient,17-01-2025
+733,East,50,Fiction,Books,613.18,108,4.6,553.23,31,7,Moderate,19-01-2025
+734,East,27,Smartphone,Electronics,207.04,9,3,187.79,37,17,Moderate,24-01-2025
+735,West,49,Fiction,Books,426.17,48,1.4,424.32,79,21,Moderate,10-01-2025
+736,West,38,Blender,Home & Kitchen,730.79,108,4.6,729.13,50,28,Urgent,19-01-2025
+737,North,58,Laptop,Electronics,102.35,116,4,95.14,89,42,Moderate,09-01-2025
+738,East,29,Non-fiction,Books,812.48,117,2.5,757.65,27,5,Sufficient,03-01-2025
+739,East,61,Biography,Books,276.55,16,3.6,263.67,65,31,Moderate,03-01-2025
+740,West,35,Tennis Racket,Sports,763.38,73,1.1,797.83,48,39,Urgent,01-01-2025
+741,South,38,Football,Sports,256.29,105,4.2,247.7,36,26,Urgent,15-01-2025
+742,East,44,Tennis Racket,Sports,997.99,71,2.5,1081.37,39,14,Moderate,05-01-2025
+743,South,23,Sneakers,Clothing,841.04,76,3,832.49,27,35,Urgent,09-01-2025
+744,East,40,Textbook,Books,716.94,96,1.4,712.91,10,17,Urgent,11-01-2025
+745,West,56,Fiction,Books,889.93,106,3.8,864.93,22,12,Urgent,24-01-2025
+746,West,45,Jacket,Clothing,108.91,47,3.2,107.52,49,10,Moderate,12-01-2025
+747,East,52,Gym Equipment,Sports,271.32,22,2.7,244.78,45,49,Urgent,01-01-2025
+748,South,41,Cookware,Home & Kitchen,296.52,48,4.2,316.65,14,2,Sufficient,06-01-2025
+749,North,49,T-shirt,Clothing,440.68,76,3.5,457.32,19,11,Urgent,04-01-2025
+750,East,64,Blender,Home & Kitchen,834.7,69,2.8,790.81,82,10,Sufficient,19-01-2025
+751,East,22,Non-fiction,Books,395.86,115,3.4,383.23,14,40,Urgent,12-01-2025
+752,South,48,Gym Equipment,Sports,322.11,89,4.7,347.97,72,6,Sufficient,04-01-2025
+753,North,21,Sneakers,Clothing,134.8,8,4.6,142.73,52,35,Urgent,12-01-2025
+754,East,54,Furniture,Home & Kitchen,785.64,84,2.6,792.7,87,6,Sufficient,19-01-2025
+755,East,20,Non-fiction,Books,851.98,113,1.3,915.32,33,9,Moderate,07-01-2025
+756,North,19,Furniture,Home & Kitchen,409.85,109,3.1,437.28,18,20,Urgent,21-01-2025
+757,South,20,Jacket,Clothing,75.89,78,2.2,77.63,26,18,Urgent,03-01-2025
+758,East,25,Sneakers,Clothing,139.11,51,5,149.55,24,42,Urgent,05-01-2025
+759,East,35,Furniture,Home & Kitchen,835.73,82,4.9,786.06,53,37,Urgent,19-01-2025
+760,West,18,Cookware,Home & Kitchen,494.77,2,3,536.75,94,6,Sufficient,20-01-2025
+761,East,62,Textbook,Books,629.44,91,2.6,673.76,80,7,Sufficient,07-01-2025
+762,West,57,Football,Sports,499,96,4.8,508.16,69,8,Sufficient,06-01-2025
+763,East,38,Textbook,Books,933.53,70,3.1,889.78,80,29,Moderate,18-01-2025
+764,West,27,Tennis Racket,Sports,793.72,74,1.2,846.69,85,5,Sufficient,07-01-2025
+765,East,56,Jacket,Clothing,275.4,67,1.2,296.48,43,8,Sufficient,14-01-2025
+766,South,26,Textbook,Books,596.13,79,2.8,583.25,92,30,Moderate,08-01-2025
+767,West,29,Yoga Mat,Sports,445.48,34,2.1,431.3,89,31,Moderate,11-01-2025
+768,South,56,Yoga Mat,Sports,745.99,22,3.2,791.01,94,33,Moderate,24-01-2025
+769,North,36,Textbook,Books,216.39,58,3.2,226.42,41,19,Moderate,10-01-2025
+770,South,65,Football,Sports,74.53,54,4.5,76.47,39,18,Moderate,21-01-2025
+771,East,57,Headphones,Electronics,554.82,39,3.2,522.32,76,27,Moderate,14-01-2025
+772,South,35,Yoga Mat,Sports,125.74,80,1.8,120.52,56,36,Urgent,19-01-2025
+773,North,51,Headphones,Electronics,620.51,20,3.4,677.45,64,48,Urgent,05-01-2025
+774,West,47,Tennis Racket,Sports,378.49,91,1.3,375,46,24,Urgent,12-01-2025
+775,West,58,Vacuum Cleaner,Home & Kitchen,933.62,102,4.6,883,15,43,Urgent,08-01-2025
+776,North,65,Tennis Racket,Sports,824.38,71,2.7,841.58,23,4,Sufficient,04-01-2025
+777,North,19,T-shirt,Clothing,816.91,49,2.2,894.12,10,11,Urgent,09-01-2025
+778,East,29,Furniture,Home & Kitchen,797.41,101,3,835.93,76,32,Moderate,01-01-2025
+779,North,64,Football,Sports,28.09,24,2,27.11,60,42,Urgent,03-01-2025
+780,South,42,Tablet,Electronics,877.18,76,3.5,898.23,47,27,Urgent,14-01-2025
+781,East,59,Fiction,Books,954.26,64,3.3,920.16,51,29,Urgent,10-01-2025
+782,South,44,Yoga Mat,Sports,954.26,111,1.2,896.57,51,26,Urgent,16-01-2025
+783,West,31,Non-fiction,Books,197.91,105,4.9,199.41,6,13,Urgent,05-01-2025
+784,West,28,Jeans,Clothing,594.96,66,3.3,561.33,76,7,Sufficient,23-01-2025
+785,West,29,Laptop,Electronics,780.86,88,2.1,760.84,71,46,Urgent,06-01-2025
+786,North,45,Jeans,Clothing,365.77,5,1.5,342.14,67,2,Sufficient,15-01-2025
+787,West,62,Fiction,Books,290.63,50,2.1,304.76,36,44,Urgent,12-01-2025
+788,West,49,Football,Sports,124.84,40,4,134.78,27,39,Urgent,11-01-2025
+789,South,55,Fiction,Books,233.93,56,1.4,234.12,65,5,Sufficient,20-01-2025
+790,West,28,Jeans,Clothing,790.35,59,4.1,846.36,100,29,Moderate,07-01-2025
+791,North,62,Textbook,Books,675.45,87,2.7,711.76,49,6,Sufficient,12-01-2025
+792,East,57,Textbook,Books,692.93,120,4.7,693.73,49,22,Moderate,19-01-2025
+793,North,32,Tablet,Electronics,319.44,105,2.6,289.92,83,20,Moderate,18-01-2025
+794,North,41,Football,Sports,317.27,120,2.2,348.39,49,18,Moderate,21-01-2025
+795,North,37,Furniture,Home & Kitchen,887.59,115,4.5,973.93,95,21,Moderate,24-01-2025
+796,South,51,Biography,Books,285.08,31,3.8,257.91,38,14,Moderate,15-01-2025
+797,North,18,Jeans,Clothing,388.26,118,3.1,375.76,84,48,Urgent,02-01-2025
+798,West,19,Non-fiction,Books,536.17,75,2.3,547.9,51,34,Urgent,05-01-2025
+799,East,54,Football,Sports,998.93,67,1.3,1059.21,16,19,Urgent,16-01-2025
+800,North,56,Jeans,Clothing,686.33,65,4.7,704.52,94,21,Moderate,13-01-2025
+801,South,24,Sneakers,Clothing,586.01,106,1.9,593.67,38,28,Urgent,17-01-2025
+802,South,20,Gym Equipment,Sports,692.76,87,4.5,626.01,86,10,Sufficient,16-01-2025
+803,South,38,Jeans,Clothing,587.51,38,4.9,581.29,42,42,Urgent,15-01-2025
+804,West,44,Vacuum Cleaner,Home & Kitchen,656.74,119,3.6,637.78,97,34,Moderate,13-01-2025
+805,West,43,Jacket,Clothing,422.63,89,1.6,459.51,30,23,Urgent,09-01-2025
+806,East,33,Textbook,Books,473.2,60,2.8,477.77,94,11,Sufficient,12-01-2025
+807,South,36,Fiction,Books,214.7,82,4.5,221.82,52,17,Moderate,19-01-2025
+808,East,56,Gym Equipment,Sports,713.09,76,2.9,748.73,15,21,Urgent,01-01-2025
+809,East,64,Laptop,Electronics,713.78,109,4.2,648.11,34,45,Urgent,04-01-2025
+810,East,60,T-shirt,Clothing,286.98,63,2.5,258.71,26,24,Urgent,13-01-2025
+811,South,18,Jacket,Clothing,29.17,47,4.2,27.73,32,33,Urgent,16-01-2025
+812,West,63,Vacuum Cleaner,Home & Kitchen,230.7,62,3.7,239.27,33,31,Urgent,20-01-2025
+813,South,59,Tennis Racket,Sports,419.51,30,1.1,456.02,83,5,Sufficient,23-01-2025
+814,South,46,Blender,Home & Kitchen,799.92,103,3.1,762.1,85,33,Moderate,22-01-2025
+815,West,42,Vacuum Cleaner,Home & Kitchen,900.72,109,4,845.54,70,8,Sufficient,02-01-2025
+816,East,29,Tennis Racket,Sports,639.28,116,4.9,593.15,22,29,Urgent,17-01-2025
+817,South,33,Furniture,Home & Kitchen,472.22,70,2.8,428.16,37,26,Urgent,02-01-2025
+818,North,25,Tablet,Electronics,247.46,32,2.6,244.31,83,18,Moderate,04-01-2025
+819,South,29,Tennis Racket,Sports,785.67,74,3.4,836.14,22,10,Moderate,18-01-2025
+820,North,52,Fiction,Books,491.98,80,4.1,509.68,58,4,Sufficient,06-01-2025
+821,East,63,Vacuum Cleaner,Home & Kitchen,287.63,42,4.4,309.89,18,21,Urgent,05-01-2025
+822,South,44,Sneakers,Clothing,38.41,6,1.1,39.4,10,47,Urgent,12-01-2025
+823,South,35,Laptop,Electronics,268,113,3.2,294.14,35,29,Urgent,02-01-2025
+824,South,52,Vacuum Cleaner,Home & Kitchen,12.05,103,1.8,12.01,55,14,Moderate,14-01-2025
+825,West,52,Sneakers,Clothing,226.37,72,1.9,248.64,27,10,Moderate,23-01-2025
+826,East,55,Headphones,Electronics,512.92,23,2.2,473.86,66,41,Urgent,14-01-2025
+827,South,20,Jeans,Clothing,244.71,87,4.7,256.26,41,7,Sufficient,16-01-2025
+828,North,40,Laptop,Electronics,566.02,110,2,588.82,58,18,Moderate,14-01-2025
+829,East,56,Textbook,Books,282.02,33,3.4,301.35,42,46,Urgent,02-01-2025
+830,West,57,Gym Equipment,Sports,119.56,38,4.5,128.51,79,27,Moderate,09-01-2025
+831,North,25,Jeans,Clothing,916.01,112,2,991.74,20,48,Urgent,09-01-2025
+832,West,52,Vacuum Cleaner,Home & Kitchen,260.21,111,1.6,281.87,49,39,Urgent,01-01-2025
+833,North,44,Yoga Mat,Sports,348.27,83,2.3,326.07,76,46,Urgent,24-01-2025
+834,East,41,Sneakers,Clothing,260.47,1,4.3,234.98,10,12,Urgent,03-01-2025
+835,North,56,Tablet,Electronics,550.39,60,4,591.4,19,8,Moderate,21-01-2025
+836,West,34,Yoga Mat,Sports,25.38,38,4.7,26.21,63,34,Urgent,08-01-2025
+837,East,34,Fiction,Books,189.39,28,4.5,174.99,37,31,Urgent,07-01-2025
+838,South,47,T-shirt,Clothing,534.02,72,1.7,530.08,97,38,Moderate,03-01-2025
+839,North,60,Jacket,Clothing,773.61,110,3.3,840.23,81,8,Sufficient,18-01-2025
+840,East,38,Headphones,Electronics,876.6,41,3.5,865.97,39,18,Moderate,08-01-2025
+841,East,30,Vacuum Cleaner,Home & Kitchen,74.41,13,2.7,71.27,29,18,Urgent,21-01-2025
+842,East,21,Jeans,Clothing,82.06,35,1.5,78.59,82,27,Moderate,03-01-2025
+843,East,56,Jeans,Clothing,180.94,71,2.2,184.01,17,17,Urgent,14-01-2025
+844,East,37,Sneakers,Clothing,688.37,81,1.8,713.58,66,1,Sufficient,13-01-2025
+845,North,29,Tablet,Electronics,490.04,72,2.9,516.01,98,45,Moderate,13-01-2025
+846,North,21,Blender,Home & Kitchen,971.03,96,1,891.31,62,44,Urgent,19-01-2025
+847,North,58,Furniture,Home & Kitchen,24.46,74,4.1,24.58,92,3,Sufficient,19-01-2025
+848,North,57,Blender,Home & Kitchen,88.88,98,1.4,82.08,21,2,Sufficient,03-01-2025
+849,North,29,Smartphone,Electronics,21.99,17,2,23.66,25,39,Urgent,13-01-2025
+850,South,40,Football,Sports,26.09,61,1.2,27.67,73,14,Sufficient,18-01-2025
+851,East,64,Jacket,Clothing,843.41,66,4.5,853.97,85,15,Sufficient,19-01-2025
+852,West,43,Football,Sports,224.83,3,1.7,221.33,72,5,Sufficient,09-01-2025
+853,West,50,Tablet,Electronics,204.54,12,3.2,205.79,79,30,Moderate,16-01-2025
+854,East,38,Furniture,Home & Kitchen,276.59,67,5,278.06,15,8,Urgent,16-01-2025
+855,West,36,Football,Sports,662.73,21,2.6,619.95,28,31,Urgent,01-01-2025
+856,West,63,Furniture,Home & Kitchen,514.25,106,4.2,510.86,72,16,Moderate,16-01-2025
+857,West,28,Jeans,Clothing,452,86,3.8,460.38,6,12,Urgent,07-01-2025
+858,West,45,Laptop,Electronics,575.64,50,3.4,567.36,74,42,Urgent,05-01-2025
+859,East,49,Sneakers,Clothing,13.78,12,2.3,12.42,86,28,Moderate,08-01-2025
+860,South,55,Cookware,Home & Kitchen,116.29,34,2,114.08,44,45,Urgent,01-01-2025
+861,West,30,Blender,Home & Kitchen,833.74,97,3.4,841.9,78,23,Moderate,04-01-2025
+862,West,42,Blender,Home & Kitchen,890.19,22,1.4,836.13,19,6,Moderate,21-01-2025
+863,West,39,T-shirt,Clothing,38.41,33,2.4,37.43,38,5,Sufficient,16-01-2025
+864,East,22,Jacket,Clothing,43.85,68,1.5,47.92,36,3,Sufficient,20-01-2025
+865,West,60,Yoga Mat,Sports,777.96,57,1.3,854.8,7,3,Moderate,11-01-2025
+866,South,33,Biography,Books,163.72,25,1.5,169.46,46,8,Sufficient,10-01-2025
+867,South,42,Blender,Home & Kitchen,398.42,96,1.4,418.59,55,40,Urgent,07-01-2025
+868,North,62,Vacuum Cleaner,Home & Kitchen,315.25,8,4.3,318.11,73,11,Sufficient,04-01-2025
+869,East,38,Jeans,Clothing,954.32,109,2.5,992.18,56,32,Urgent,11-01-2025
+870,West,53,Jacket,Clothing,329.6,8,3,331.6,94,18,Sufficient,08-01-2025
+871,West,65,Biography,Books,179.13,37,3.1,162.05,31,16,Urgent,16-01-2025
+872,West,27,Cookware,Home & Kitchen,565.83,83,1.4,525.42,46,33,Urgent,14-01-2025
+873,West,29,Fiction,Books,327.03,75,3.4,354.66,41,34,Urgent,04-01-2025
+874,North,36,Jeans,Clothing,102.97,107,1.3,108.02,79,35,Moderate,18-01-2025
+875,West,46,Football,Sports,532.97,48,3.3,519.19,57,26,Moderate,23-01-2025
+876,South,27,Gym Equipment,Sports,287.36,3,3.9,273.53,32,35,Urgent,14-01-2025
+877,North,38,Fiction,Books,451.27,47,4.8,440.41,86,18,Moderate,03-01-2025
+878,North,26,Furniture,Home & Kitchen,138.13,7,2.3,151.59,43,9,Moderate,09-01-2025
+879,North,31,Cookware,Home & Kitchen,282.9,32,4,279.4,73,12,Sufficient,20-01-2025
+880,West,45,Blender,Home & Kitchen,57.83,117,4.9,59.34,38,42,Urgent,18-01-2025
+881,North,36,Headphones,Electronics,434.53,94,1.2,457.35,50,7,Sufficient,20-01-2025
+882,North,45,Laptop,Electronics,180.75,64,1,171.07,18,22,Urgent,13-01-2025
+883,West,48,Sneakers,Clothing,179.44,15,4.5,194.33,49,9,Sufficient,16-01-2025
+884,North,65,Sneakers,Clothing,653.25,116,3.9,624.69,54,20,Moderate,19-01-2025
+885,South,33,Blender,Home & Kitchen,561,72,4.4,536.28,23,44,Urgent,13-01-2025
+886,North,23,T-shirt,Clothing,675.34,54,2.9,685.89,77,31,Moderate,10-01-2025
+887,West,19,Biography,Books,711.71,88,4.9,722.59,53,50,Urgent,10-01-2025
+888,North,32,Non-fiction,Books,330.61,13,3.9,318.69,98,5,Sufficient,18-01-2025
+889,South,33,Vacuum Cleaner,Home & Kitchen,107.46,120,4.6,101.7,33,35,Urgent,06-01-2025
+890,East,48,Textbook,Books,793.52,74,1.3,817.63,52,2,Sufficient,21-01-2025
+891,South,54,Headphones,Electronics,550.27,51,2.2,496.55,23,10,Moderate,02-01-2025
+892,West,57,Vacuum Cleaner,Home & Kitchen,585.31,116,2.5,635,96,13,Sufficient,22-01-2025
+893,East,27,Sneakers,Clothing,812.99,82,2.3,815.15,67,1,Sufficient,22-01-2025
+894,West,37,Blender,Home & Kitchen,939.47,65,3.4,979.76,93,48,Urgent,14-01-2025
+895,North,54,Headphones,Electronics,290.76,82,2.8,313.17,23,25,Urgent,15-01-2025
+896,West,32,Biography,Books,975.58,102,1,1023.48,14,11,Urgent,16-01-2025
+897,East,42,Smartphone,Electronics,87.51,82,2,91.33,87,48,Urgent,12-01-2025
+898,North,45,Gym Equipment,Sports,928.54,75,1.8,928.78,43,48,Urgent,21-01-2025
+899,North,40,T-shirt,Clothing,737.59,109,3.8,774.87,34,18,Urgent,17-01-2025
+900,East,48,Laptop,Electronics,327.88,95,4.2,350.11,79,46,Urgent,12-01-2025
+901,West,63,Jeans,Clothing,91,90,1,94.76,43,22,Urgent,06-01-2025
+902,North,25,Tennis Racket,Sports,155,31,4.6,151.3,91,29,Moderate,24-01-2025
+903,East,65,Smartphone,Electronics,144.76,63,4,133.02,96,3,Sufficient,08-01-2025
+904,East,37,Jacket,Clothing,405.47,56,2.7,416.66,13,11,Urgent,07-01-2025
+905,West,30,Jeans,Clothing,16.82,24,2.5,17.27,43,15,Moderate,17-01-2025
+906,South,37,Fiction,Books,128.92,91,2.6,136.99,9,48,Urgent,23-01-2025
+907,North,64,T-shirt,Clothing,71.29,31,1.2,72.85,77,25,Moderate,16-01-2025
+908,East,44,Tablet,Electronics,926.28,109,3,936.87,46,28,Urgent,07-01-2025
+909,South,65,Non-fiction,Books,991.75,63,2.3,1016.08,91,11,Sufficient,01-01-2025
+910,South,57,Yoga Mat,Sports,219.97,64,1.8,199.98,64,39,Urgent,19-01-2025
+911,West,31,Vacuum Cleaner,Home & Kitchen,506.09,27,4.5,540.01,86,12,Sufficient,01-01-2025
+912,South,42,Tennis Racket,Sports,627.51,94,4.6,604.19,26,42,Urgent,17-01-2025
+913,East,49,Headphones,Electronics,723.94,21,4.3,701.36,40,50,Urgent,19-01-2025
+914,East,27,Tablet,Electronics,851.84,84,5,823.96,92,9,Sufficient,10-01-2025
+915,West,30,Textbook,Books,496.67,27,2.7,524.08,19,9,Moderate,03-01-2025
+916,East,31,Non-fiction,Books,781.36,15,3.4,705.08,27,3,Sufficient,06-01-2025
+917,West,60,Laptop,Electronics,187.15,43,2.2,173.55,55,30,Urgent,19-01-2025
+918,South,41,Cookware,Home & Kitchen,846.06,93,2.1,891.85,60,9,Sufficient,13-01-2025
+919,East,39,Jacket,Clothing,490.05,22,3.7,536.05,62,18,Moderate,14-01-2025
+920,West,32,Furniture,Home & Kitchen,473.95,114,3,460.33,85,32,Moderate,01-01-2025
+921,South,64,Tennis Racket,Sports,156.51,85,1.3,161.57,14,5,Moderate,07-01-2025
+922,South,29,Headphones,Electronics,778.78,114,4.7,826.85,97,27,Moderate,20-01-2025
+923,East,50,Biography,Books,118.94,58,3.5,118.97,78,14,Sufficient,19-01-2025
+924,North,19,Jeans,Clothing,637.66,54,4.3,575.86,49,25,Urgent,13-01-2025
+925,South,42,Vacuum Cleaner,Home & Kitchen,623.48,44,2.8,589.08,90,30,Moderate,21-01-2025
+926,West,29,Football,Sports,996.4,93,2.7,937.78,59,8,Sufficient,05-01-2025
+927,South,36,Gym Equipment,Sports,500.65,75,3.4,544.22,42,44,Urgent,23-01-2025
+928,North,48,Smartphone,Electronics,891.51,83,2.9,949.87,25,47,Urgent,24-01-2025
+929,South,52,Biography,Books,67.01,74,3.3,71.1,24,28,Urgent,19-01-2025
+930,West,62,Non-fiction,Books,80.46,45,2,73.83,81,12,Sufficient,07-01-2025
+931,North,47,Laptop,Electronics,232.47,41,1.1,254.78,100,36,Moderate,20-01-2025
+932,North,22,Jeans,Clothing,985.83,51,2.2,1054.16,31,9,Moderate,20-01-2025
+933,West,50,Gym Equipment,Sports,13.18,19,4.7,14.41,36,15,Moderate,01-01-2025
+934,West,37,Yoga Mat,Sports,354.45,68,1.3,328.53,92,24,Moderate,08-01-2025
+935,South,52,Blender,Home & Kitchen,147.35,112,1.8,161.66,78,47,Urgent,21-01-2025
+936,North,22,Vacuum Cleaner,Home & Kitchen,614.71,102,2,642.7,27,47,Urgent,15-01-2025
+937,North,39,Textbook,Books,561.28,82,2.8,604.43,56,31,Urgent,09-01-2025
+938,North,23,Fiction,Books,287.34,87,2.1,271.48,78,10,Sufficient,13-01-2025
+939,East,55,Yoga Mat,Sports,81.92,100,2.6,84.71,19,17,Urgent,20-01-2025
+940,South,35,Tennis Racket,Sports,58.68,42,2.2,57.52,51,19,Moderate,17-01-2025
+941,North,34,Sneakers,Clothing,311.65,115,4.5,336.16,83,24,Moderate,01-01-2025
+942,West,36,Laptop,Electronics,332.89,25,1.7,321.82,83,39,Moderate,04-01-2025
+943,East,44,Biography,Books,165.41,42,1.7,155.98,17,11,Urgent,02-01-2025
+944,West,31,Laptop,Electronics,244.47,80,4.5,231.32,71,17,Moderate,24-01-2025
+945,North,22,Smartphone,Electronics,481.77,106,4,455.4,69,42,Urgent,08-01-2025
+946,East,55,Sneakers,Clothing,50.28,9,1.7,45.86,29,7,Moderate,17-01-2025
+947,North,47,Cookware,Home & Kitchen,602.96,76,1.1,583.95,62,28,Moderate,12-01-2025
+948,East,62,Furniture,Home & Kitchen,154.84,75,4.2,149.52,64,11,Sufficient,12-01-2025
+949,North,26,Textbook,Books,67.38,80,2.7,72.76,88,15,Sufficient,06-01-2025
+950,West,19,Yoga Mat,Sports,172.31,27,1.1,187.32,20,19,Urgent,02-01-2025
+951,East,21,Textbook,Books,294.24,111,1.8,316.57,8,3,Moderate,24-01-2025
+952,West,28,Jeans,Clothing,757.65,47,4.7,698.3,99,18,Sufficient,20-01-2025
+953,South,32,Laptop,Electronics,193.12,88,3.9,186.55,86,5,Sufficient,05-01-2025
+954,South,48,Tennis Racket,Sports,637.27,69,4.5,648.96,60,10,Sufficient,07-01-2025
+955,North,48,Jacket,Clothing,329.38,75,2.6,356.97,47,12,Moderate,22-01-2025
+956,South,40,Vacuum Cleaner,Home & Kitchen,995.78,115,4.4,1000.81,45,1,Sufficient,03-01-2025
+957,South,57,Headphones,Electronics,75.73,30,3,73.29,54,33,Urgent,13-01-2025
+958,West,35,Laptop,Electronics,165.76,57,4.4,156.1,33,46,Urgent,14-01-2025
+959,East,42,Vacuum Cleaner,Home & Kitchen,80.76,29,1.1,85.88,82,20,Moderate,14-01-2025
+960,North,62,Blender,Home & Kitchen,948.17,81,2.6,854.39,94,16,Sufficient,03-01-2025
+961,South,20,Blender,Home & Kitchen,385.47,56,1.8,412,39,5,Sufficient,17-01-2025
+962,South,41,Cookware,Home & Kitchen,325.72,57,2.8,348.03,87,25,Moderate,10-01-2025
+963,North,32,Vacuum Cleaner,Home & Kitchen,473.31,57,3.3,451.57,59,41,Urgent,11-01-2025
+964,East,40,Laptop,Electronics,601.45,23,3.2,566.76,30,34,Urgent,14-01-2025
+965,East,54,Fiction,Books,759.09,31,4,832.99,7,42,Urgent,13-01-2025
+966,North,22,Fiction,Books,817.03,57,4.3,833.58,10,26,Urgent,20-01-2025
+967,East,63,Cookware,Home & Kitchen,808.85,95,2.3,811.62,87,27,Moderate,04-01-2025
+968,West,64,Jacket,Clothing,885.83,19,1.2,861.18,13,3,Moderate,08-01-2025
+969,West,24,Yoga Mat,Sports,325.67,66,3.5,335.75,34,49,Urgent,10-01-2025
+970,East,44,Football,Sports,39.58,113,3.9,39.14,97,13,Sufficient,03-01-2025
+971,East,45,Tennis Racket,Sports,903.78,18,3.1,892.09,57,28,Moderate,06-01-2025
+972,West,53,Jacket,Clothing,332.74,106,2.5,337.49,62,41,Urgent,06-01-2025
+973,West,29,Fiction,Books,724.68,5,3.6,731.13,43,22,Urgent,09-01-2025
+974,East,41,Headphones,Electronics,931.35,108,4.1,844.46,36,46,Urgent,09-01-2025
+975,South,29,Cookware,Home & Kitchen,197.42,46,2.2,178.09,40,19,Moderate,11-01-2025
+976,West,42,Yoga Mat,Sports,83.28,30,2.8,81.52,85,39,Moderate,18-01-2025
+977,North,58,Laptop,Electronics,270.61,7,1.4,248.31,57,25,Moderate,09-01-2025
+978,East,36,Fiction,Books,897.65,95,4.8,849.07,51,50,Urgent,06-01-2025
+979,South,29,Jacket,Clothing,901.79,73,3.6,822.96,55,23,Moderate,09-01-2025
+980,East,61,Textbook,Books,502.17,101,1.5,527.02,15,20,Urgent,15-01-2025
+981,West,33,Vacuum Cleaner,Home & Kitchen,280.03,67,4.5,253.25,8,36,Urgent,06-01-2025
+982,North,41,Sneakers,Clothing,370.23,108,1.6,371.01,29,14,Moderate,11-01-2025
+983,East,60,Yoga Mat,Sports,867.62,2,4.9,944.4,71,30,Moderate,15-01-2025
+984,North,30,Tablet,Electronics,980.14,103,4.6,911.67,32,21,Urgent,02-01-2025
+985,West,65,Jeans,Clothing,571.11,29,1.3,560.32,86,48,Urgent,14-01-2025
+986,North,36,Biography,Books,21.03,41,4,20.09,18,33,Urgent,01-01-2025
+987,North,18,Tennis Racket,Sports,64.34,110,2,69.91,86,39,Moderate,10-01-2025
+988,North,59,Jacket,Clothing,69.86,8,1.2,69.72,64,32,Moderate,22-01-2025
+989,West,61,Gym Equipment,Sports,915.23,59,3.2,920.71,70,4,Sufficient,02-01-2025
+990,North,59,Smartphone,Electronics,387.59,46,1.7,401.92,80,4,Sufficient,02-01-2025
+991,South,55,Gym Equipment,Sports,566.64,119,1.2,615.64,90,45,Moderate,13-01-2025
+992,South,58,Laptop,Electronics,238.64,5,1.4,223,49,5,Sufficient,04-01-2025
+993,West,43,T-shirt,Clothing,873.04,41,4.9,957.37,37,40,Urgent,09-01-2025
+994,South,60,T-shirt,Clothing,618.38,113,1.7,647.09,84,33,Moderate,02-01-2025
+995,East,62,Headphones,Electronics,891.82,87,4.7,972.45,25,4,Sufficient,04-01-2025
+996,South,47,Cookware,Home & Kitchen,488.81,59,4,498.55,84,16,Sufficient,18-01-2025
+997,South,20,Biography,Books,746.4,80,1.7,690.16,69,41,Urgent,19-01-2025
+998,East,35,Sneakers,Clothing,70.92,67,1.7,69.39,88,37,Moderate,11-01-2025
+999,East,29,Cookware,Home & Kitchen,372.13,68,3.8,382.82,35,4,Sufficient,11-01-2025
+1000,West,33,Furniture,Home & Kitchen,228.29,62,2.8,245.56,80,11,Sufficient,02-01-2025
